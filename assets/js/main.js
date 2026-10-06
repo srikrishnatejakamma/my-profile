@@ -19,6 +19,23 @@
   });
   reducedMotion.addEventListener('change', event => { motionOff = event.matches; applyMotion(); });
 
+  const skillsSearch = document.querySelector('#skills-search');
+  if (skillsSearch) {
+    const skillAreas = [...document.querySelectorAll('.expertise-card')];
+    const skillIndex = skillAreas.map(area => area.textContent.toLocaleLowerCase());
+    document.querySelector('.skills-toolbar').hidden = false;
+    skillsSearch.addEventListener('input', () => {
+      const terms = skillsSearch.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+      let count = 0;
+      skillAreas.forEach((area, index) => {
+        area.hidden = !terms.every(term => skillIndex[index].includes(term));
+        if (!area.hidden) { count++; area.classList.add('visible'); }
+      });
+      document.querySelector('#skills-status').textContent = `${count} skill ${count === 1 ? 'area' : 'areas'}${terms.length ? ' found' : ''}`;
+      document.querySelector('.skills-empty').hidden = count !== 0;
+    });
+  }
+
   const menuButton = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#navigation');
   function closeMenu() { nav.classList.remove('open'); menuButton.setAttribute('aria-expanded', 'false'); menuButton.setAttribute('aria-label', 'Open navigation'); }

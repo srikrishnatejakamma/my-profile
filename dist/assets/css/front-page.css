@@ -1,0 +1,45 @@
+/* Summary and skills presentation, using the portfolio's established palette. */
+[hidden]{display:none!important}
+.hero h1{font-size:clamp(60px,6.4vw,86px);letter-spacing:-4.2px;line-height:1.02;margin-bottom:24px}
+.hero-description{max-width:490px;font-size:14px;line-height:1.8;margin-bottom:18px}
+.hero-strengths{display:flex;flex-wrap:wrap;gap:9px 18px;padding:0 0 26px;color:#91aaa0;font-size:10px;line-height:1.7}
+.hero-strengths strong{font-weight:600;color:var(--accent)}
+.hero-person{margin-top:28px}
+.hero-art{align-self:center}
+.about-positioning{font-size:14px;max-width:330px;line-height:1.8;color:var(--muted)}
+.about-copy>p:first-child{font-size:18px}
+.industry-domains{border-top:1px solid var(--line);margin-top:25px;padding-top:22px}
+.industry-domains .eyebrow{font-size:8px;letter-spacing:1.6px;margin-bottom:14px;color:#91aaa0}
+.industry-domains .tags>span{padding:8px 10px}
+.capability-grid{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;border-top:1px solid var(--line);margin-top:-18px}
+.capability{padding:32px 23px 4px;border-right:1px solid var(--line);position:relative}
+.capability:first-child{padding-left:0}.capability:last-child{border-right:0;padding-right:0}
+.capability-icon{display:block;font-size:26px;color:var(--accent);margin-bottom:25px;line-height:1}
+.capability-label{display:block;font-family:monospace;font-size:8px;color:#84ac9b;letter-spacing:1.4px;margin-bottom:13px}
+.capability h3{font-size:19px;line-height:1.3;letter-spacing:-.6px;margin-bottom:12px}
+.capability p{font-size:11px;color:var(--muted);line-height:1.85;margin-bottom:23px}
+.capability-stack{display:block;font-family:monospace;font-size:7px;letter-spacing:.5px;color:#84ac9b;line-height:1.8}
+.skills-toolbar{display:flex;justify-content:space-between;align-items:flex-end;gap:25px;margin:0 0 25px}
+.skills-toolbar label{display:block;width:min(100%,470px)}
+.skills-toolbar label>span{display:block;font-size:10px;color:#a4b5ac;letter-spacing:.5px;margin-bottom:10px}
+.skills-toolbar input{width:100%;font:12px var(--sans);border:1px solid #35443c;background:#101815;color:var(--text);padding:14px 16px;border-radius:4px;min-height:44px}
+.skills-toolbar input::placeholder{color:#788f84}.skills-toolbar input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.skills-toolbar>p{font-size:10px;color:#8da498;margin:0 0 13px;white-space:nowrap}
+.expertise-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:0;border:0;align-items:start}
+.expertise-card{border:1px solid var(--line);border-radius:5px;background:#101619;transition:border-color .2s}
+.expertise-card:hover,.expertise-card[open]{border-color:#526e60}
+.expertise-card summary{position:relative;cursor:pointer;list-style:none;padding:25px 54px 25px 26px}
+.expertise-card summary::-webkit-details-marker{display:none}
+.expertise-card .expertise-number{display:block;font-size:8px;letter-spacing:1.2px;color:#8fb6a5;margin-bottom:13px}
+.expertise-card h3{font-size:21px;line-height:1.35;letter-spacing:-.6px;margin-bottom:11px}
+.expertise-card summary>p{font-size:10px;color:#95a79e;line-height:1.7;margin:0}
+.skill-expand{position:absolute;right:23px;top:50%;font-size:24px;font-weight:400;color:var(--accent);transform:translateY(-50%);transition:transform .2s}
+.expertise-card[open] .skill-expand{transform:translateY(-50%) rotate(45deg)}
+.skill-content{border-top:1px solid var(--line);padding:24px 26px}
+.skill-content h4{font-size:11px;letter-spacing:.2px;font-weight:600;color:#c1d4c9;margin:0 0 9px}
+.skill-content p{font-size:12px;color:var(--muted);line-height:1.9;margin:0 0 23px}
+.skill-content .tags{gap:6px}.skill-content .tags>span{font-size:8px;line-height:1.4}
+.skills-empty{font-size:13px;color:var(--muted);padding:30px 0}
+@media(max-width:1100px){.hero h1{font-size:clamp(58px,6.4vw,72px);letter-spacing:-3px}.hero .eyebrow{font-size:9px;letter-spacing:1.5px}.hero-strengths{font-size:9px;gap:8px 14px}.capability-grid{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:30px}.capability{padding-left:25px;padding-right:25px}.capability:nth-child(2){border-right:0}.capability:nth-child(3){padding-left:0}.expertise-card h3{font-size:18px}.expertise-card summary{padding-left:22px}.capability-stack{font-size:8px}}
+@media(max-width:760px){.hero h1{font-size:clamp(48px,12.5vw,76px);letter-spacing:-2px;line-height:1.05}.hero .eyebrow{font-size:7.5px;letter-spacing:1.1px;gap:10px}.hero-description{font-size:13px;max-width:440px}.hero-strengths{font-size:9px;gap:8px 16px;padding-bottom:24px}.hero-person{margin-top:28px}.art-label{font-size:6.5px;letter-spacing:1.1px}.label-ai{font-size:7px;right:0}.about-positioning{max-width:none;font-size:13px}.about-section{row-gap:28px}.capability-grid{margin-top:9px;row-gap:26px}.capability{padding:25px 14px 0}.capability:first-child,.capability:nth-child(3){padding-left:0}.capability:last-child,.capability:nth-child(2){padding-right:0}.capability-icon{font-size:25px;margin-bottom:20px}.capability-label{font-size:7px;letter-spacing:.9px}.capability h3{font-size:17px;letter-spacing:-.5px}.capability p{font-size:10px;line-height:1.8;margin-bottom:16px}.capability-stack{font-size:6.5px;letter-spacing:.1px}.skills-toolbar{align-items:stretch;flex-direction:column;gap:11px;margin-bottom:24px}.skills-toolbar>p{margin-bottom:0}.skills-toolbar label{width:100%}.expertise-list{grid-template-columns:1fr;gap:12px}.expertise-card h3{font-size:20px}.expertise-card summary{padding:23px 48px 23px 20px}.expertise-card .expertise-number{font-size:7.5px;letter-spacing:1px}.expertise-card summary>p{font-size:10px}.skill-expand{right:19px}.skill-content{padding:22px 20px}.skill-content p{font-size:11px}.industry-domains .tags>span{font-size:8px}.industry-domains .eyebrow{font-size:7px}}
+@media print{.skills-toolbar,.skill-expand{display:none}.hero h1{font-size:45px}.hero-strengths{color:#444}.expertise-card{background:white;border-color:#bbb;break-inside:avoid}.expertise-card h3,.skill-content h4{color:#111}.skill-content p,.capability p{color:#444}.capability-grid{gap:20px}.capability{border:0;padding:15px 0}}
