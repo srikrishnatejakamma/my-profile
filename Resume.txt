@@ -74,6 +74,16 @@ Experienced in building and leading cross-functional engineering teams, conducti
 **Tenure:** Jan 2025 – Jun 2026  
 **Project:** HRMS (TriNet)
 
+### Engagement Focus
+
+**AI & GenAI:** RAG, policy retrieval, document processing, LangChain/LangGraph agents, and OpenAI/Azure OpenAI integration.
+
+**Billing:** Billing APIs, invoicing, payment integration, subscription workflows, and reconciliation.
+
+**Development & operations:** Java 21, Spring Boot, Python, Go, full-stack development, CI/CD quality gates, observability, and production readiness.
+
+**Cloud:** AWS, Kubernetes/EKS, Docker, Helm, Terraform, serverless services, and infrastructure automation.
+
 ### Project Description
 
 Contributed to the architecture, technical leadership, design, and development of a **cloud-native enterprise HR management platform** supporting employee lifecycle management, payroll, benefits administration, onboarding, compliance, workforce analytics, and employee self-service.
@@ -208,6 +218,16 @@ The platform leveraged **distributed microservices, event-driven architecture, r
 **Tenure:** Aug 2023 – Apr 2024  
 **Client/Project:** Verizon
 
+### Engagement Focus
+
+**AI & GenAI:** LLM/RAG-based operational knowledge retrieval, incident analysis, log summarization, and troubleshooting assistance.
+
+**Billing:** Customer-account billing, subscription workflows, invoicing, billing APIs, and payment integration.
+
+**Development & operations:** Java, Go, Python, Spring Boot microservices, GitLab CI/CD, security gates, incident response, and root cause analysis.
+
+**Cloud:** AWS, Docker, Kubernetes, IAM, CloudWatch, cloud infrastructure, and application telemetry.
+
 ### Project Description
 
 Contributed to Verizon's enterprise digital ecosystem supporting **customer account management, telecom products and services, device purchases, customer support, secure application infrastructure, API integrations, and high-volume digital transactions**.
@@ -325,6 +345,14 @@ Worked across distributed microservices, event-driven systems, cloud infrastruct
 **Tenure:** May 2021 – Aug 2023  
 **Projects:** OCH & UAE PASS
 
+### Engagement Focus
+
+**Billing:** OCH healthcare billing, invoicing, payment integration, and secure business-service workflows.
+
+**Development & operations:** Java/Spring Boot, frontend and API engineering, Jenkins/GitLab CI/CD, automated testing, secure identity services, and production troubleshooting.
+
+**Cloud:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, cloud monitoring, and resilient deployment patterns.
+
 ### Project Description
 
 **OCH:** Secure healthcare platform supporting patient data, medical records, appointments, billing, reporting, and healthcare-service coordination.
@@ -348,16 +376,6 @@ Worked across distributed microservices, event-driven systems, cloud infrastruct
 ● Implemented **Spark and Flink** workloads for batch/stream processing, analytics, auditing, and operational reporting.
 
 ● Designed reliable event processing using Kafka partitions, consumer groups, retries, offset management, and DLQs.
-
-### AI, GenAI & Agentic AI
-
-● Developed Python-based **LLM/RAG solutions** for healthcare and enterprise document processing, semantic search, knowledge retrieval, and workflow automation.
-
-● Implemented document ingestion, chunking, embeddings, vector retrieval, contextual grounding, and LLM response generation.
-
-● Integrated AI capabilities through Python/FastAPI services with existing Java-based microservices.
-
-● Applied prompt engineering, validation, access controls, and secure integration patterns around AI workflows.
 
 ### Front-End Engineering
 
@@ -421,7 +439,6 @@ Worked across distributed microservices, event-driven systems, cloud infrastruct
 
 **Languages:** Java, Go, Python, JavaScript, TypeScript, SQL  
 **Backend:** Spring Boot, Hibernate/JPA, REST, GraphQL, gRPC, Microservices  
-**AI/GenAI:** LLMs, RAG, LangChain, Embeddings, Semantic Search  
 **Streaming:** Kafka, Spark, Flink  
 **Frontend:** Angular, React.js  
 **Cloud:** AWS, Azure, GCP  
@@ -438,6 +455,14 @@ Worked across distributed microservices, event-driven systems, cloud infrastruct
 **Role:** Senior Product Engineer / Java Tech Lead  
 **Tenure:** Sep 2019 – May 2021  
 **Projects:** IMC Mayo & IMC Patient Portal
+
+### Engagement Focus
+
+**Billing:** Patient-service billing, invoicing, payment APIs, and financial workflow integration.
+
+**Development & operations:** Java/Spring Boot, Angular, REST integrations, Spring Batch, Maven builds, quality checks, release support, and production operations.
+
+**Cloud:** AWS EC2, S3, Lambda, IAM, CloudWatch, Docker packaging, and test/production environment support.
 
 ### Project Description
 
@@ -541,6 +566,14 @@ Developed and supported a healthcare ecosystem serving patients and medical prof
 **Role:** Senior Software Engineer  
 **Tenure:** Aug 2018 – Sep 2019  
 **Project:** ezFlow (Aiotal)
+
+### Engagement Focus
+
+**Billing:** Billing APIs, usage-data processing, invoicing, and payment-service integration.
+
+**Development & operations:** Java/Spring Boot, Angular, Kafka, Spring Batch, Maven, automated quality checks, logging, and data-platform troubleshooting.
+
+**Cloud:** AWS-hosted application environments, Docker, Kubernetes, deployment support, and application hosting.
 
 ### Project Description
 
