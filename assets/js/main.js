@@ -67,17 +67,6 @@
     document.querySelectorAll('main>section[id]').forEach(section => sections.observe(section));
   }
 
-  document.querySelectorAll('[data-filter]').forEach(button => button.addEventListener('click', () => {
-    const filter = button.dataset.filter;
-    document.querySelectorAll('[data-filter]').forEach(item => { const active = item === button; item.classList.toggle('active', active); item.setAttribute('aria-pressed', String(active)); });
-    let count = 0;
-    document.querySelectorAll('.project-card').forEach(card => {
-      card.hidden = filter !== 'all' && !card.dataset.category.split(' ').includes(filter);
-      if (!card.hidden) { count++; card.classList.add('visible'); }
-    });
-    document.querySelector('#filter-status').textContent = `${count} ${count === 1 ? 'contribution' : 'contributions'}${filter === 'all' ? '' : ` · ${button.textContent.trim()}`}`;
-  }));
-
   const toast = document.querySelector('.toast');
   let toastTimer;
   function showToast(message) { toast.textContent = message; toast.classList.add('visible'); clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove('visible'), 3500); }

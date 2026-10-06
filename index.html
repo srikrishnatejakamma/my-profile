@@ -12,7 +12,9 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/front-page.css">
   <link rel="stylesheet" href="assets/css/contributions.css">
+  <link rel="stylesheet" href="assets/css/carousel.css">
   <script src="assets/js/main.js" defer></script>
+  <script src="assets/js/carousel.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -79,6 +81,9 @@
       </div>
       <div class="work-overview reveal" aria-label="Project showcase overview"><div><strong>07</strong><span>PROFESSIONAL ENGAGEMENTS</span></div><div><strong>Architecture → production</strong><span>DESIGN / BUILD / SECURE / OPERATE</span></div><div><strong>Platforms & people</strong><span>HANDS-ON ENGINEERING / TEAM LEADERSHIP</span></div></div>
       <div class="work-toolbar"><div class="project-filters" role="group" aria-label="Filter contributions by domain"><button class="active" data-filter="all" aria-pressed="true">All contributions <span>07</span></button><button data-filter="ai" aria-pressed="false">HR & AI</button><button data-filter="identity" aria-pressed="false">Digital identity</button><button data-filter="healthcare" aria-pressed="false">Healthcare</button><button data-filter="data" aria-pressed="false">Data & integration</button><button data-filter="telecom" aria-pressed="false">Telecom</button><button data-filter="insurance" aria-pressed="false">Insurance</button></div><p id="filter-status" role="status" aria-live="polite">7 contributions</p></div>
+      <div class="project-carousel">
+        <div class="carousel-controls" hidden><div class="carousel-label"><p id="carousel-status" role="status" aria-live="polite" aria-atomic="true">1 / 7 — TriNet HRMS</p><span>SWIPE OR USE THE ARROWS TO EXPLORE</span></div><div class="carousel-pagination" role="group" aria-label="Choose a contribution"></div><div class="carousel-arrows"><button class="carousel-prev" type="button" aria-label="Previous contribution" aria-controls="project-viewport"><span aria-hidden="true">←</span></button><button class="carousel-next" type="button" aria-label="Next contribution" aria-controls="project-viewport"><span aria-hidden="true">→</span></button></div></div>
+        <div class="carousel-viewport" id="project-viewport">
       <div class="project-grid">
         <article class="project-card project-featured reveal" data-category="ai" aria-labelledby="project-trinet">
           <div class="project-visual visual-ai featured-visual"><div class="visual-topline"><span>01 / FEATURED CONTRIBUTION</span><span aria-hidden="true">✳</span></div><img class="motion-asset neural-image" src="assets/images/neural-flow.gif" data-still="assets/images/neural-flow.png" data-motion="assets/images/neural-flow.gif" alt="" width="560" height="310" loading="lazy"><div class="feature-visual-copy"><span class="case-label">ENTERPRISE HR + APPLIED AI</span><p>Connected workflows.<br><em>Contextual intelligence.</em></p></div><div class="feature-capabilities"><span>Employee lifecycle</span><span>Payroll & benefits</span><span>RAG & AI agents</span></div><div class="feature-visual-footer"><span>EVENT-DRIVEN / CLOUD-NATIVE / SECURE</span><span aria-hidden="true">↗</span></div></div>
@@ -114,6 +119,8 @@
           <div class="project-visual visual-insurance"><span class="visual-caption">07 / INSURANCE & LOCATION SERVICES</span><div class="insurance-art" aria-hidden="true"><span class="policy-document"><i></i><i></i><i></i><b>POLICY</b></span><span class="map-pin"><svg viewBox="0 0 60 76"><path d="M30 3C15 3 4 14 4 29c0 19 26 43 26 43s26-24 26-43C56 14 45 3 30 3Z"/><circle cx="30" cy="28" r="9"/></svg></span></div><div class="visual-capabilities"><span>POLICIES</span><i aria-hidden="true">/</i><span>PAYMENTS</span><i aria-hidden="true">/</i><span>MAPS</span></div></div>
           <div class="project-content"><div class="project-meta"><span>BEYONTEC / EZYINSURE & EZYMAP</span><span>MAY 2014 — NOV 2015</span></div><h3 id="project-insurance">Insurance workflows, connected.</h3><p class="project-role">Associate Software Engineer <span>Enterprise Java · External integrations</span></p><div class="case-context"><span class="case-label">THE PLATFORMS</span><p>Bilingual insurance workflows and location-based policy services for Emirates Insurance Company, ADNIC, and Union Insurance.</p></div><div class="case-outcome"><span class="case-label">CAPABILITIES SUPPORTED</span><p>Policy administration, payment integration, map visualization, and Excel-based bulk uploads.</p></div><div class="tags"><span>Java / Struts / Hibernate</span><span>Google Maps</span><span>Apache POI</span><span>JSP / AJAX</span></div><details class="project-details"><summary>Explore my contribution <span aria-hidden="true">+</span></summary><div class="case-depth"><h4>Policy services & integration</h4><ul><li>Implemented insurance-policy, commission, reporting, and persistence workflows with Java/J2EE and Hibernate.</li><li>Integrated payment gateways, automobile-data services, RightFax, and messaging platforms.</li><li>Used Google Maps for policy visualization and distance calculations, and Apache POI for bulk policy processing.</li><li>Supported English/Arabic interfaces, unit and integration testing, UAT environments, and release validation.</li></ul></div></details></div>
         </article>
+      </div>
+        </div>
       </div>
       <div class="work-closing reveal"><span aria-hidden="true">↳</span><p>One consistent thread: <strong>secure architecture, dependable delivery, and engineering teams with direction.</strong></p><a class="text-link" href="#contact">Discuss a technical challenge <span aria-hidden="true">↗</span></a></div>
     </section>

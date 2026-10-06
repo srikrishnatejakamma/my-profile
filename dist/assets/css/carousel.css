@@ -1,0 +1,30 @@
+/* Native scroll snapping provides touch swiping without an extra dependency. */
+.carousel-controls{display:grid;grid-template-columns:1fr auto auto;gap:24px;align-items:center;padding:0 0 23px}
+.carousel-label p{font-size:12px;color:#c1d5c7;line-height:1.7;margin:0 0 5px}
+.carousel-label>span{font-family:monospace;font-size:7px;letter-spacing:1px;color:#7f9c8c}
+.carousel-pagination{display:flex;align-items:center;justify-content:center;gap:2px}
+.carousel-pagination button{display:grid;place-items:center;width:28px;height:32px;padding:0;background:transparent;border-radius:3px}
+.carousel-pagination button::before{content:'';width:6px;height:6px;border-radius:50%;background:#476657;transition:width .2s,background .2s}
+.carousel-pagination button[aria-current=true]::before{background:var(--accent);width:17px;border-radius:5px}
+.carousel-pagination button:hover::before{background:#bee5ce}
+.carousel-arrows{display:flex;gap:8px}
+.carousel-arrows button{width:44px;height:44px;border:1px solid #446251;border-radius:4px;background:#132219;color:var(--accent);font-size:23px;transition:background .2s,border-color .2s}
+.carousel-arrows button:hover{background:#223b2b;border-color:#81b49a}
+.carousel-arrows button:disabled{opacity:.3;cursor:default;background:transparent}
+.project-carousel.is-ready .carousel-viewport{overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain;border-radius:6px;transition:height .25s ease}
+.project-carousel.is-ready .carousel-viewport::-webkit-scrollbar{display:none}
+.carousel-viewport:focus-visible{outline:2px solid var(--accent);outline-offset:6px}
+.work-section .project-carousel.is-ready .project-grid{display:flex;gap:0;align-items:flex-start;width:100%}
+.project-carousel.is-ready .project-card{flex:0 0 100%;min-width:0;width:100%;scroll-snap-align:start;scroll-snap-stop:always;display:grid;grid-template-columns:.85fr 1.15fr;align-self:flex-start;opacity:1;transform:none;overflow:clip}
+.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-visual{height:100%;min-height:480px;border-bottom:0;border-right:1px solid var(--line)}
+.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content{padding:35px}
+.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content h3{font-size:32px;letter-spacing:-1px}
+.work-section .project-carousel.is-ready .project-card:not(.project-featured) .case-context>p{font-size:13px}
+.work-section .project-carousel.is-ready .identity-art{width:220px;height:220px}
+.work-section .project-carousel.is-ready .identity-art svg{width:78px;height:92px}
+.work-section .project-carousel.is-ready .heartbeat{height:220px}
+.project-carousel.is-ready .visual-capabilities{flex-wrap:wrap;bottom:27px}
+@media(max-width:1100px){.carousel-controls{gap:16px}.carousel-label p{font-size:11px}.carousel-label>span{font-size:6px}.carousel-pagination button{width:24px}.project-carousel.is-ready .project-card{grid-template-columns:.8fr 1.2fr}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content{padding:27px}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content h3{font-size:28px}}
+@media(max-width:760px){.carousel-controls{grid-template-columns:1fr auto;gap:13px;padding-bottom:20px}.carousel-label p{font-size:10px;max-width:225px;line-height:1.6}.carousel-label>span{font-size:5.5px;letter-spacing:.7px}.carousel-pagination{grid-column:1/-1;grid-row:2;justify-content:flex-start;gap:4px}.carousel-pagination button{width:28px;height:28px}.carousel-arrows button{width:40px;height:40px;font-size:21px}.project-carousel.is-ready .project-card{grid-template-columns:1fr}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-visual{height:215px;min-height:0;border-right:0;border-bottom:1px solid var(--line)}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content{padding:24px 21px}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .project-content h3{font-size:25px}.work-section .project-carousel.is-ready .project-card:not(.project-featured) .case-context>p{font-size:12px}.work-section .project-carousel.is-ready .identity-art{width:145px;height:145px}.work-section .project-carousel.is-ready .identity-art svg{width:54px;height:65px}.work-section .project-carousel.is-ready .heartbeat{height:165px}.project-carousel.is-ready .visual-capabilities{bottom:21px}}
+@media(prefers-reduced-motion:reduce){.project-carousel.is-ready .carousel-viewport{transition:none}}
+@media print{.carousel-controls{display:none!important}.project-carousel .carousel-viewport{height:auto!important;overflow:visible!important}.work-section .project-carousel .project-grid{display:grid!important;grid-template-columns:1fr;gap:20px}.project-carousel .project-card{display:block!important;min-width:0;inset:auto}.project-carousel .project-card[aria-hidden=true]{display:block!important}}
