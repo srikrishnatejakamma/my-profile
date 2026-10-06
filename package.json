@@ -1,0 +1,10 @@
+{
+  "name": "sri-krishna-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "python -m http.server 8080 --bind 127.0.0.1",
+    "check": "node --check assets/js/main.js"
+  }
+}

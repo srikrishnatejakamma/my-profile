@@ -1,0 +1,847 @@
+Header:
+-------
+Sri Krishna Teja Kamma. 	Technical Lead
+
+srikrishnakamma@outlook.com | +91-6304453258
+
+Summrey:
+-------
+
+Senior Tech Lead and Full-Stack Architect with **12+ years of experience** designing, developing, modernizing, and leading **enterprise-scale, cloud-native and distributed applications** across HR, telecom, healthcare, data management, insurance, and digital identity domains. Strong expertise in **Java 21, Spring Boot, Python, Go, Microservices, REST APIs, GraphQL, gRPC, Apache Kafka, Spark, and Flink**, with proven experience designing highly scalable, resilient, event-driven systems.
+
+Hands-on experience across **AWS, Microsoft Azure, and Google Cloud Platform (GCP)**, architecting cloud-native solutions using Kubernetes, Docker, serverless technologies, distributed data stores, caching, messaging, and Infrastructure as Code with **Terraform, CloudFormation, and Ansible**. Experienced in building enterprise **CI/CD and DevSecOps pipelines** using Jenkins, GitLab CI/CD, SonarQube, Fortify, Snyk, JaCoCo, CodeQL, and Trivy, incorporating automated testing, code-quality gates, security scanning, and controlled production deployments.
+
+Strong experience in **Generative AI and Agentic AI application development**, including LLM integration, Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, embeddings, vector databases, semantic search, prompt engineering, and Python/FastAPI-based AI services. Experienced in integrating **OpenAI and Azure OpenAI** capabilities into existing enterprise microservices and cloud platforms.
+
+Proven expertise in **solution architecture, microservices and distributed-system design, API architecture, event-driven architecture, scalability, high availability, resilience, performance optimization, observability, and production engineering**. Strong security background encompassing **OAuth 2.0, JWT, SAML, SSO, SSL/TLS, IAM, RBAC, OWASP, API Security, Secure SDLC, and DevSecOps**.
+
+Experienced in building and leading cross-functional engineering teams, conducting **architecture and code reviews, mentoring developers, driving technical decisions, resolving complex production issues, and collaborating with product, business, security, QA, DevOps, and cloud teams** to deliver secure, maintainable, highly available enterprise solutions.
+
+### TECHNICAL SKILLS
+
+**Programming Languages:** Java, Python, Golang (Go), JavaScript, TypeScript, SQL
+
+**Backend Technologies & Frameworks:** Spring Boot, Spring MVC, Spring Security, FastAPI, Node.js, Hibernate, JPA, REST APIs, GraphQL, gRPC, Microservices Architecture, Distributed Systems
+
+**AI, Generative AI & Agentic AI:** Generative AI (GenAI), Large Language Models (LLMs), Agentic AI, AI Agents, Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, LangGraph, Vector Databases, Embeddings, Semantic Search, LLM API Integration, AI-Powered Application Development, AI Workflow Orchestration
+
+**Python & AI Development:** Python, FastAPI, Pydantic, Pandas, NumPy, Scikit-learn, Jupyter Notebook, RESTful AI Services, Data Processing, Data Transformation, Model Integration, AI/ML API Development
+
+**AI-Assisted Development Tools:** GitHub Copilot, Cursor, Claude, Kiro, AI-Assisted Software Development, Code Generation, Code Review, Code Refactoring, Test Generation, Documentation Generation, AI-Assisted Debugging
+
+**Front-End Technologies:** React.js, Angular, Next.js, JavaScript, TypeScript, HTML5, CSS3, Responsive Web Development
+
+**Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Cloud Compute, Storage, Networking, IAM, Serverless Architecture, AWS Lambda, API Gateway, EC2, S3, VPC, Auto Scaling, CloudWatch
+
+**Billing, Payments & Subscription Platforms:** Zuora, Chargebee, Stripe, Subscription Management, Recurring Billing, Usage-Based Billing, Invoicing, Payment Processing, Payment Gateway Integration, Pricing & Product Catalogs, Customer Account Management, Refunds, Credits, Webhooks, Billing APIs, Payment Reconciliation
+
+**Containerization & Orchestration:** Docker, Kubernetes, Helm, Rancher, Containerized Microservices, Kubernetes Deployments, Services, ConfigMaps, Secrets, Horizontal Pod Autoscaling (HPA), Liveness & Readiness Probes
+
+**Infrastructure as Code (IaC) & Automation:** Terraform, AWS CloudFormation, Ansible, ARM Templates, Infrastructure Provisioning, Configuration Management, Environment Automation
+
+**DevOps, CI/CD & Build Tools:** Jenkins, Harness, GitLab CI/CD, Bitbucket, JFrog Artifactory, Nexus Repository, Maven, Gradle, Ant, Automated Build & Deployment Pipelines, Release Management
+
+**Code Quality, Security Scanning & Static Analysis:** SonarQube, SonarCloud, Fortify Static Code Analyzer (Fortify SCA), Checkmarx, Veracode, Snyk, OWASP Dependency-Check, SpotBugs, PMD, Checkstyle, ESLint, GitHub CodeQL, Trivy, Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), Dependency Scanning, Vulnerability Scanning, Code Quality Gates, Technical Debt Analysis, Security Vulnerability Remediation
+
+**Code Coverage & Quality Gates:** JaCoCo, SonarQube Quality Gates, Code Coverage Analysis, Coverage Threshold Enforcement, Pull Request Quality Checks, Automated Code Analysis, Build Quality Gates
+
+**Security & DevSecOps:** OAuth 2.0, JWT, SSL/TLS, OWASP Top 10, API Security, Identity & Access Management (IAM), Authentication, Authorization, DevSecOps, Secure SDLC, Secrets Management, HashiCorp Vault, Cloud Secrets Management, Vulnerability Management, CI/CD Security Gates, Container Security Scanning
+
+**Testing & Quality Engineering:** JUnit 5, Mockito, Spring Boot Test, Testcontainers, REST Assured, Postman, PyTest, Jest, React Testing Library, Jasmine, Karma, Cypress, Playwright, Selenium, Unit Testing, Integration Testing, API Testing, Contract Testing, End-to-End (E2E) Testing, Regression Testing, Performance Testing, Test Automation, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+
+**Monitoring, Logging & Observability:** Prometheus, Grafana, Splunk, Elasticsearch, Logstash, Kibana (ELK Stack), OpenSearch, CloudWatch, Application Monitoring, Distributed Logging, Metrics, Alerting, Production Monitoring, Performance Monitoring
+
+**Messaging, Streaming & Data Processing:** Apache Kafka, RabbitMQ, Apache Spark, Apache Flink, Apache Camel, Event-Driven Architecture, Asynchronous Messaging, Stream Processing, Kafka Producers & Consumers, Kafka Consumer Groups, Partitioning, Schema Evolution
+
+**Databases & Data Stores:** Oracle, PostgreSQL, MySQL, SQL Server, MongoDB, Amazon DocumentDB, Amazon DynamoDB, Redis, H2, Relational Databases, NoSQL Databases, Database Design, Query Optimization, Transaction Management
+
+**API & Integration Technologies:** REST APIs, GraphQL, gRPC, JSON, XML, SOAP Web Services, Webhooks, API Gateway, Third-Party API Integration, Event-Driven Integration
+
+**Architecture & System Design:** Solution Architecture, Technical Design, System Architecture, Microservices Architecture, Distributed Systems, Event-Driven Architecture, High Availability, Scalability, Resilience, Fault Tolerance, API Design, Database Design, Performance Tuning, Design Patterns, Architecture Reviews
+
+**Development Methodologies:** Agile, Scrum, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Waterfall, SDLC, Secure SDLC, Continuous Integration, Continuous Delivery
+
+**Technical Leadership & Engineering Practices:** Technical Leadership, Solution & Technical Design, Architecture Reviews, Code Reviews, Pull Request Reviews, Engineering Best Practices, Performance Optimization, Production Troubleshooting, Root Cause Analysis (RCA), Team Mentorship, Developer Guidance, Cross-Functional Collaboration, Stakeholder Communication, Technical Documentation
+
+# PROFESSIONAL EXPERIENCE
+
+---
+
+# 1) Coforge
+
+**Role:** Senior Tech Lead  
+**Tenure:** Jan 2025 – Jun 2026  
+**Project:** HRMS (TriNet)
+
+### Project Description
+
+Contributed to the architecture, technical leadership, design, and development of a **cloud-native enterprise HR management platform** supporting employee lifecycle management, payroll, benefits administration, onboarding, compliance, workforce analytics, and employee self-service.
+
+The platform leveraged **distributed microservices, event-driven architecture, real-time stream processing, container orchestration, cloud-native infrastructure, DevSecOps, and Generative/Agentic AI capabilities**, with emphasis on scalability, high availability, security, resilience, observability, and enterprise performance.
+
+### Backend, Microservices & API Engineering
+
+● Architected and led scalable HR capabilities using **Java 21, Spring Boot, Go, Python, FastAPI, Node.js, Hibernate/JPA, REST, GraphQL, gRPC, and microservices architecture**.
+
+● Designed domain-oriented microservices with clear service boundaries, independently deployable components, database ownership, API contracts, and event-driven integration.
+
+● Designed **Kafka/Kafka Streams-based event-driven architecture** supporting asynchronous communication across payroll, benefits, onboarding, compliance, and employee-management services.
+
+● Designed REST, GraphQL, and gRPC APIs incorporating validation, authentication, authorization, versioning, exception handling, idempotency, pagination, and backward compatibility.
+
+● Applied Spring Boot transaction management, JPA/Hibernate, optimistic/pessimistic locking, database isolation, and distributed consistency patterns for enterprise transaction processing.
+
+### Messaging, Streaming & Data Processing
+
+● Architected Kafka workflows using **topics, partitions, consumer groups, offsets, retry topics, schema evolution, DLQs, and idempotent consumers**.
+
+● Leveraged **Apache Spark, Spark Streaming, and Flink** for payroll processing, employee lifecycle tracking, workforce analytics, compliance monitoring, and reporting.
+
+● Built low-latency pipelines using Kafka, Spark Streaming, and Flink to process employee activities, payroll transactions, benefits changes, and compliance events.
+
+● Implemented retries, checkpointing, replay, offset management, DLQs, and duplicate-processing controls for reliable event processing.
+
+### AI, GenAI & Agentic AI
+
+● Developed **Python/FastAPI AI microservices** using LLMs, LangChain, LangGraph, RAG, embeddings, vector databases, semantic search, and prompt engineering.
+
+● Implemented RAG solutions for employee policy search, HR knowledge retrieval, document summarization, employee self-service, and contextual question answering.
+
+● Designed ingestion pipelines involving document parsing, chunking, embedding generation, vector indexing, semantic retrieval, contextual grounding, and LLM response generation.
+
+● Integrated **OpenAI and Azure OpenAI APIs**, implementing prompt templates, grounding, response validation, access controls, and sensitive-data protection.
+
+● Designed **LangGraph/LangChain agent workflows** for knowledge retrieval, policy assistance, document processing, workflow orchestration, and employee support automation.
+
+● Utilized **GitHub Copilot, Cursor, Claude, and Kiro** for AI-assisted coding, refactoring, test generation, debugging, documentation, and code-review support.
+
+### Front-End Engineering
+
+● Developed enterprise applications using **React.js, Next.js, Angular, JavaScript, TypeScript, HTML5, and CSS3**.
+
+● Integrated frontend applications with REST, GraphQL, and microservices while implementing reusable components, state management, authentication, authorization, validation, and error handling.
+
+● Improved frontend performance through optimized rendering, lazy loading, caching, component reuse, and API optimization.
+
+### Cloud, Containers & Infrastructure
+
+● Designed AWS workloads using **EKS, ECS, Lambda, API Gateway, EC2, RDS, DynamoDB, S3, VPC, IAM, Auto Scaling, and CloudWatch**.
+
+● Containerized Java, Go, Python, and Node.js services using Docker and orchestrated workloads using **Kubernetes/EKS, Helm, and Rancher**.
+
+● Configured Kubernetes Deployments, Services, ConfigMaps, Secrets, resource requests/limits, health probes, rolling deployments, and HPA.
+
+● Automated infrastructure provisioning using **Terraform, CloudFormation, and Ansible**.
+
+● Designed load balancing and service discovery using **ALB/NLB, Kubernetes Services/Ingress, and Istio**.
+
+### CI/CD, Code Quality & DevSecOps
+
+● Designed **GitLab CI/CD and Jenkins pipelines** incorporating build, automated testing, security scanning, containerization, artifact management, infrastructure provisioning, and deployment.
+
+● Integrated **SonarQube/SonarCloud and JaCoCo** for static analysis, coverage, technical-debt analysis, and quality gates.
+
+● Integrated **Fortify SCA, Snyk, OWASP Dependency-Check, CodeQL, and Trivy** for SAST, SCA, dependency, source-code, and container scanning.
+
+● Established automated release gates based on vulnerabilities, test results, code coverage, and code-quality thresholds.
+
+● Managed Maven/Gradle builds and artifacts through **JFrog Artifactory and Nexus**.
+
+### Testing & Quality Engineering
+
+● Implemented testing using **JUnit 5, Mockito, Spring Boot Test, Testcontainers, REST Assured, PyTest, Jest, React Testing Library, Cypress, Playwright, Selenium, and Postman**.
+
+● Established unit, integration, API, contract, regression, component, and E2E testing strategies.
+
+● Integrated automated tests and JaCoCo/SonarQube coverage thresholds into CI/CD pipelines.
+
+### Security & Compliance
+
+● Implemented **OAuth 2.0, JWT, Spring Security, SSL/TLS, RBAC, IAM, encryption, secrets management, and least-privilege controls**.
+
+● Applied OWASP, Secure SDLC, DevSecOps, vulnerability scanning, secure code review, and dependency-security practices.
+
+● Supported SOC 2, GDPR, auditing, data privacy, and enterprise HR information-security requirements.
+
+### Resilience, Performance & Observability
+
+● Implemented circuit breakers, retries, exponential backoff, timeouts, fallbacks, bulkheads, DLQs, idempotency, and health checks.
+
+● Improved scalability using Kubernetes HPA, AWS Auto Scaling, Kafka partitioning, distributed caching, and stateless services.
+
+● Optimized APIs and databases using Redis/Memcached, indexing, query optimization, connection pooling, pagination, and asynchronous processing.
+
+● Implemented monitoring using **Prometheus, Grafana, ELK, OpenSearch, Splunk, and CloudWatch**.
+
+● Performed production troubleshooting and RCA across APIs, databases, Kafka, Kubernetes, and downstream integrations.
+
+### Architecture & Technical Leadership
+
+● Led solution architecture, system design, microservices design, API design, event-driven architecture, cloud architecture, and production-readiness reviews.
+
+● Evaluated trade-offs involving scalability, consistency, availability, security, performance, operational complexity, and cloud cost.
+
+● Led backend, frontend, QA, DevOps, cloud, security, and data engineers throughout design, implementation, testing, deployment, and support.
+
+● Mentored engineers across Java, Go, Python, cloud, Kafka, Kubernetes, DevSecOps, and AI engineering.
+
+### Environment
+
+**Languages:** Java 21, Python, Go, JavaScript, TypeScript, SQL  
+**Backend:** Spring Boot, Spring MVC, Spring Security, FastAPI, Node.js, Hibernate, JPA, REST, GraphQL, gRPC  
+**AI/GenAI:** LLMs, AI Agents, RAG, LangChain, LangGraph, Embeddings, Vector Databases, Semantic Search, OpenAI, Azure OpenAI  
+**Streaming:** Kafka, Kafka Streams, Spark, Spark Streaming, Flink  
+**Frontend:** React.js, Next.js, Angular  
+**Cloud:** AWS EKS, ECS, Lambda, API Gateway, EC2, RDS, DynamoDB, S3, VPC, IAM, CloudWatch  
+**Containers/IaC:** Docker, Kubernetes, Helm, Rancher, Istio, Terraform, CloudFormation, Ansible  
+**CI/CD:** GitLab CI/CD, Jenkins, Maven, Gradle, JFrog, Nexus  
+**Quality/Security:** SonarQube, SonarCloud, Fortify, Snyk, CodeQL, Trivy, JaCoCo  
+**Testing:** JUnit 5, Mockito, Testcontainers, REST Assured, PyTest, Jest, Cypress, Playwright, Selenium  
+**Observability:** Prometheus, Grafana, ELK, OpenSearch, Splunk, CloudWatch
+
+---
+
+# 2) Publicis Sapient
+
+**Role:** Senior Associate Technology L2  
+**Tenure:** Aug 2023 – Apr 2024  
+**Client/Project:** Verizon
+
+### Project Description
+
+Contributed to Verizon's enterprise digital ecosystem supporting **customer account management, telecom products and services, device purchases, customer support, secure application infrastructure, API integrations, and high-volume digital transactions**.
+
+Worked across distributed microservices, event-driven systems, cloud infrastructure, production operations, security monitoring, and AI-assisted operational capabilities.
+
+### Backend, Microservices & API Engineering
+
+● Developed, supported, and troubleshot **Java/Spring Boot, Go, Python, and Node.js microservices** supporting customer and telecom workflows.
+
+● Designed and maintained REST, GraphQL, and gRPC integrations across distributed enterprise services.
+
+● Applied resilient service patterns including retries, timeouts, circuit breakers, fallback mechanisms, idempotency, and asynchronous processing.
+
+● Diagnosed production issues involving APIs, database connections, downstream dependencies, memory utilization, concurrency, and application performance.
+
+### Messaging, Streaming & Data Processing
+
+● Supported **Apache Kafka-based event-driven microservices**, troubleshooting consumer lag, failed messages, duplicate processing, offset-management issues, and downstream failures.
+
+● Worked with Kafka topics, partitions, consumer groups, retries, and DLQs for reliable asynchronous processing.
+
+● Supported **Spark and Flink** workloads for operational analytics, event processing, and security-monitoring pipelines.
+
+### AI, GenAI & Agentic AI
+
+● Developed Python-based GenAI capabilities for **incident analysis, log summarization, operational knowledge retrieval, troubleshooting assistance, and technical documentation**.
+
+● Implemented **LLM and RAG-based retrieval** for searching operational documentation and historical incident knowledge.
+
+● Worked with LangChain, embeddings, semantic search, and enterprise knowledge sources to provide contextual responses.
+
+● Integrated OpenAI/Azure OpenAI services with appropriate validation and access controls.
+
+● Utilized GitHub Copilot, Cursor, and Claude for code analysis, test generation, refactoring, troubleshooting, and documentation.
+
+### Front-End Engineering
+
+● Supported and enhanced **React.js, Next.js, and Angular** applications integrated with distributed backend services.
+
+● Diagnosed frontend issues involving API integration, authentication, state management, performance, and error handling.
+
+### Cloud, Containers & Infrastructure
+
+● Supported workloads hosted on **AWS**, including CloudWatch, IAM, compute, networking, API, and security services.
+
+● Supported Dockerized applications and Kubernetes-based deployments across distributed environments.
+
+● Assisted with deployment troubleshooting, environment configuration, scaling, and production operational support.
+
+### CI/CD, Code Quality & DevSecOps
+
+● Supported GitLab CI/CD pipelines for build, testing, security analysis, and deployment.
+
+● Integrated or worked with **SonarQube, JaCoCo, Fortify, Snyk, and OWASP Dependency-Check** for code quality and application-security validation.
+
+● Conducted secure code reviews for Java, Go, Python, JavaScript, and TypeScript services.
+
+● Enforced code-quality and security gates before production promotion.
+
+### Testing & Quality Engineering
+
+● Developed and maintained tests using **JUnit 5, Mockito, Spring Boot Test, REST Assured, PyTest, Jest, Cypress, and Postman**.
+
+● Supported unit, integration, API, regression, and end-to-end testing.
+
+● Used automated test execution as part of CI/CD quality validation.
+
+### Security & Compliance
+
+● Supported authentication and authorization using **OAuth 2.0, JWT, SSO, IAM, and API security controls**.
+
+● Investigated SIEM alerts, security logs, application logs, and suspicious API activity.
+
+● Supported TLS, encryption, API throttling, least-privilege access, and secure gateway configurations.
+
+● Tuned SIEM correlation rules for anomalous API activity, privilege escalation, and potential data-exfiltration patterns.
+
+### Resilience, Performance & Observability
+
+● Managed incidents using **ServiceNow, Jira, GitLab, ELK, Splunk, and CloudWatch**.
+
+● Investigated logs, Kafka metrics, distributed traces, infrastructure telemetry, and application metrics during production incidents.
+
+● Performed RCA for performance degradation, security incidents, message-processing failures, and integration outages.
+
+### Architecture & Technical Leadership
+
+● Collaborated with development, security, DevOps, operations, and product teams on architecture, incident resolution, release readiness, and security improvements.
+
+● Conducted code reviews and provided technical guidance across Java, Go, Python, and frontend technologies.
+
+● Supported technical-debt remediation, performance optimization, security improvements, and production stabilization.
+
+### Environment
+
+**Languages:** Java, Go, Python, JavaScript, TypeScript  
+**Backend:** Spring Boot, Node.js, REST, GraphQL, gRPC, Microservices  
+**AI/GenAI:** LLMs, RAG, LangChain, OpenAI, Azure OpenAI, Embeddings, Semantic Search  
+**Streaming:** Kafka, Spark, Flink  
+**Frontend:** React.js, Next.js, Angular  
+**Cloud:** AWS, CloudWatch, GuardDuty, IAM  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** GitLab CI/CD  
+**Quality/Security:** SonarQube, JaCoCo, Fortify, Snyk, OWASP Dependency-Check  
+**Testing:** JUnit 5, Mockito, REST Assured, PyTest, Jest, Cypress, Postman  
+**Observability:** ELK, Splunk, CloudWatch  
+**Tools:** Jira, ServiceNow
+
+---
+
+# 3) Cognizant
+
+**Role:** Technical Lead  
+**Tenure:** May 2021 – Aug 2023  
+**Projects:** OCH & UAE PASS
+
+### Project Description
+
+**OCH:** Secure healthcare platform supporting patient data, medical records, appointments, billing, reporting, and healthcare-service coordination.
+
+**UAE PASS:** National digital identity platform supporting secure digital authentication, identity verification, digital access to government/private services, and electronic document signing.
+
+### Backend, Microservices & API Engineering
+
+● Designed scalable applications using **Java/Spring Boot, Go, Python, REST, GraphQL, gRPC, Hibernate/JPA, and microservices architecture**.
+
+● Defined service boundaries and integration contracts for healthcare and identity-management workflows.
+
+● Developed secure REST, GraphQL, and gRPC APIs integrated with relational and NoSQL databases.
+
+● Applied transaction management, exception handling, API versioning, validation, concurrency controls, and distributed-system patterns.
+
+### Messaging, Streaming & Data Processing
+
+● Architected **Kafka-based event-driven workflows** for healthcare events, identity management, notifications, auditing, and asynchronous integration.
+
+● Implemented **Spark and Flink** workloads for batch/stream processing, analytics, auditing, and operational reporting.
+
+● Designed reliable event processing using Kafka partitions, consumer groups, retries, offset management, and DLQs.
+
+### AI, GenAI & Agentic AI
+
+● Developed Python-based **LLM/RAG solutions** for healthcare and enterprise document processing, semantic search, knowledge retrieval, and workflow automation.
+
+● Implemented document ingestion, chunking, embeddings, vector retrieval, contextual grounding, and LLM response generation.
+
+● Integrated AI capabilities through Python/FastAPI services with existing Java-based microservices.
+
+● Applied prompt engineering, validation, access controls, and secure integration patterns around AI workflows.
+
+### Front-End Engineering
+
+● Developed frontend applications using **Angular, React.js, JavaScript, TypeScript, HTML5, and CSS3**.
+
+● Integrated frontend applications with REST and microservices while implementing reusable components, validation, authentication, and responsive UI.
+
+### Cloud, Containers & Infrastructure
+
+● Integrated applications with **AWS Lambda, API Gateway, S3, RDS, DynamoDB, ECS, EKS, IAM, and CloudWatch**.
+
+● Supported multi-cloud environments across **AWS, Azure, and GCP**.
+
+● Containerized services using Docker and managed workloads through **Kubernetes, EKS, Helm, and Rancher**.
+
+● Automated infrastructure using Terraform and CI/CD pipelines.
+
+### CI/CD, Code Quality & DevSecOps
+
+● Built and supported **Jenkins and GitLab CI/CD pipelines** for build, test, analysis, packaging, and deployment.
+
+● Integrated **SonarQube, JaCoCo, PMD, Checkstyle, Fortify, and OWASP Dependency-Check** for quality and security validation.
+
+● Performed code reviews across Java, Go, Python, and frontend applications.
+
+● Enforced automated test, coverage, static-analysis, and security standards before deployment.
+
+### Testing & Quality Engineering
+
+● Implemented automated testing using **JUnit, Mockito, Spring Boot Test, REST Assured, Postman, and JMeter**.
+
+● Supported unit, integration, API, regression, performance, and end-to-end testing.
+
+● Incorporated TDD/BDD practices into application development.
+
+### Security & Compliance
+
+● Implemented **OAuth 2.0, JWT, SSL/TLS, IAM, encryption, API rate limiting, and OWASP controls**.
+
+● Supported secure identity-management workflows requiring strong authentication, authorization, auditability, and data protection.
+
+● Participated in security reviews and vulnerability remediation.
+
+### Resilience, Performance & Observability
+
+● Implemented monitoring using **Prometheus, Grafana, ELK, Azure Monitor, and AWS CloudWatch**.
+
+● Supported autoscaling, resilient Kafka processing, caching, Kubernetes health checks, and fault-tolerant deployment patterns.
+
+● Conducted performance tuning and production RCA across applications, databases, messaging, and cloud infrastructure.
+
+### Architecture & Technical Leadership
+
+● Led technical design, architecture reviews, API design, microservices design, and integration planning.
+
+● Mentored Java, Go, Python, and frontend developers and established engineering standards.
+
+● Coordinated with DevOps, QA, security, product, and business teams throughout delivery.
+
+### Environment
+
+**Languages:** Java, Go, Python, JavaScript, TypeScript, SQL  
+**Backend:** Spring Boot, Hibernate/JPA, REST, GraphQL, gRPC, Microservices  
+**AI/GenAI:** LLMs, RAG, LangChain, Embeddings, Semantic Search  
+**Streaming:** Kafka, Spark, Flink  
+**Frontend:** Angular, React.js  
+**Cloud:** AWS, Azure, GCP  
+**Containers/IaC:** Docker, Kubernetes, EKS, Helm, Rancher, Terraform  
+**CI/CD:** Jenkins, GitLab CI/CD  
+**Quality:** SonarQube, JaCoCo, PMD, Checkstyle, Fortify  
+**Testing:** JUnit, Mockito, REST Assured, JMeter  
+**Observability:** Prometheus, Grafana, ELK, Azure Monitor, CloudWatch
+
+---
+
+# 4) Tech Mahindra – International Medical Center
+
+**Role:** Senior Product Engineer / Java Tech Lead  
+**Tenure:** Sep 2019 – May 2021  
+**Projects:** IMC Mayo & IMC Patient Portal
+
+### Project Description
+
+Developed and supported a healthcare ecosystem serving patients and medical professionals through web and mobile applications. The platform provided **patient registration, appointment scheduling, medical reports, vital-sign tracking, physician information, healthcare content, wellness notifications, SMS/in-app notifications, and secure patient-service integrations**.
+
+### Backend, Microservices & API Engineering
+
+● Served as Onsite Coordinator and Java Tech Lead overseeing **Java, Spring Boot, Spring MVC, REST APIs, microservices, and third-party integrations**.
+
+● Designed Spring Boot services supporting patient registration, appointments, medical reports, notifications, and healthcare-content workflows.
+
+● Consolidated service layers into reusable Spring Boot components, improving maintainability and reducing duplicated business logic.
+
+● Developed secure third-party integrations using REST APIs and standardized error-handling mechanisms.
+
+● Developed batch and scheduled workflows using **Spring Batch and Spring Scheduling**.
+
+### Integration & Data Processing
+
+● Developed Java/Python web-service mocking and simulation utilities to support integration testing.
+
+● Integrated external healthcare, SMS, notification, content, and patient-service APIs.
+
+● Designed scheduled processing for notification and healthcare operational workflows.
+
+### Front-End Engineering
+
+● Developed and supported **Angular, JavaScript, HTML5, and CSS3** applications integrated with Spring Boot APIs.
+
+● Implemented responsive patient and administrative screens with validation, authentication, and error handling.
+
+### Cloud, Containers & Infrastructure
+
+● Deployed and supported applications on **AWS EC2, S3, Lambda, IAM, and CloudWatch**.
+
+● Supported Docker-based application packaging and deployment.
+
+● Managed Test and Production environments across AWS and Linux infrastructure.
+
+### CI/CD, Code Quality & DevSecOps
+
+● Supported automated build and deployment pipelines using Maven and source-control systems.
+
+● Used **SonarQube, JaCoCo, PMD, Checkstyle, and Fortify/SAST** for static analysis, code coverage, secure-code validation, and coding standards.
+
+● Performed design reviews, code reviews, threat modeling, and security-risk assessments.
+
+### Testing & Quality Engineering
+
+● Developed unit and integration tests using **JUnit and Mockito**.
+
+● Applied TDD/BDD practices for critical business functionality.
+
+● Developed mock services to isolate external dependencies and improve integration testing.
+
+● Used JaCoCo to monitor code coverage and improve automated-test completeness.
+
+### Security & Compliance
+
+● Implemented **SSL/TLS, OAuth 2.0, JWT, CSRF protection, API rate limiting, secure logging, and OWASP practices**.
+
+● Applied secure coding and access-control practices for sensitive healthcare information.
+
+● Supported audit trails and security-event logging for critical application activities.
+
+### Resilience, Performance & Observability
+
+● Implemented centralized application logging using **ELK and AWS CloudWatch**.
+
+● Improved application performance through service-layer optimization, database/query tuning, and efficient API integration.
+
+● Supported production monitoring, incident troubleshooting, RCA, and performance analysis.
+
+### Architecture & Technical Leadership
+
+● Led technical design, development, review, testing, and deployment activities across onsite/offshore teams.
+
+● Conducted technical walkthroughs covering Spring Boot, integration frameworks, Python utilities, secure development, and deployment practices.
+
+● Maintained architecture documentation, technical wikis, operational guidelines, and troubleshooting references.
+
+● Mentored developers and coordinated technical delivery with onsite and offshore stakeholders.
+
+### Environment
+
+**Languages:** Java, Python, JavaScript  
+**Backend:** Spring Boot, Spring MVC, Spring Batch, REST APIs, Microservices  
+**Frontend:** Angular, HTML5, CSS3  
+**Cloud:** AWS EC2, S3, Lambda, IAM, CloudWatch  
+**Containers:** Docker  
+**Build/CI:** Maven, Git, SVN  
+**Quality/Security:** SonarQube, JaCoCo, PMD, Checkstyle, Fortify  
+**Testing:** JUnit, Mockito, BDD/TDD  
+**Observability:** ELK, CloudWatch  
+**Platforms:** Tomcat, Linux, Windows
+
+---
+
+# 5) EPSoft Technologies
+
+**Role:** Senior Software Engineer  
+**Tenure:** Aug 2018 – Sep 2019  
+**Project:** ezFlow (Aiotal)
+
+### Project Description
+
+Contributed to **ezFlow**, a real-time automated integrated data-management platform designed to ingest, capture, connect, combine, transform, stream, secure, and extract information from enterprise, big-data, streaming, web, and premium data sources.
+
+The platform enabled business users to build data-management workflows and derive actionable insights without extensive custom coding.
+
+### Backend, Microservices & API Engineering
+
+● Designed and developed backend capabilities using **Java, Spring Boot, Spring MVC, JPA, REST APIs, web services, and microservices**.
+
+● Participated across requirements gathering, analysis, architecture, design, development, testing, and deployment.
+
+● Developed reusable service and persistence layers supporting data-ingestion and transformation workflows.
+
+● Implemented Spring Batch jobs for scheduled and high-volume data processing.
+
+### Messaging, Streaming & Data Processing
+
+● Implemented asynchronous/event-driven processing using **Apache Kafka**.
+
+● Worked with **Apache Beam** for distributed pipeline-oriented data-processing use cases.
+
+● Developed workflows for data ingestion, transformation, processing, and persistence.
+
+● Integrated MongoDB and relational data sources into application workflows.
+
+### Front-End Engineering
+
+● Developed user interfaces using **Angular 1/8, HTML, CSS, JavaScript, jQuery, AJAX, and Highcharts**.
+
+● Implemented reusable UI components and data-visualization capabilities for data-management workflows.
+
+● Integrated frontend components with REST APIs and backend services.
+
+### Cloud, Containers & Infrastructure
+
+● Supported AWS-hosted development and application environments.
+
+● Containerized application services using **Docker**.
+
+● Supported deployment and operation of services in **Kubernetes** environments.
+
+● Worked with Tomcat, Jetty, and Nginx for application hosting and web-service deployment.
+
+### CI/CD, Code Quality & Engineering Practices
+
+● Used Maven for build and dependency management.
+
+● Applied **SonarQube, JaCoCo, PMD, and Checkstyle** for static analysis, coverage, code-quality validation, and coding-standard enforcement.
+
+● Conducted code reviews and debugging to improve maintainability, reliability, and performance.
+
+### Testing & Quality Engineering
+
+● Developed unit tests using **JUnit and Mockito**.
+
+● Applied TDD/BDD practices across application functionality.
+
+● Supported integration, regression, and functional testing across backend and UI components.
+
+● Incorporated automated quality checks into development and build workflows.
+
+### Security & Application Reliability
+
+● Followed secure development practices for REST APIs and data-processing services.
+
+● Applied validation, exception handling, controlled access, and secure configuration practices.
+
+● Supported reliable processing through structured logging, error handling, and recovery mechanisms.
+
+### Performance & Observability
+
+● Used **Log4j** for application logging, debugging, and troubleshooting.
+
+● Performed backend, data-processing, and database performance optimization.
+
+● Troubleshot application issues across service, database, UI, and infrastructure layers.
+
+### Architecture & Technical Leadership
+
+● Contributed to application architecture and technical design for new platform capabilities.
+
+● Managed offshore developers and coordinated with onsite technical leads.
+
+● Conducted code reviews, supported technical problem-solving, and monitored delivery progress.
+
+● Facilitated collaboration across development, QA, and onsite teams to ensure timely delivery.
+
+### Environment
+
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Spring Boot, Spring MVC, Spring Batch, JPA, REST, Microservices  
+**Streaming/Data:** Kafka, Apache Beam  
+**Databases:** MongoDB, relational databases  
+**Frontend:** Angular 1/8, HTML, CSS, JavaScript, jQuery, AJAX, Highcharts  
+**Cloud/Containers:** AWS, Docker, Kubernetes  
+**Build/Quality:** Maven, SonarQube, JaCoCo, PMD, Checkstyle  
+**Testing:** JUnit, Mockito, BDD/TDD  
+**Servers:** Tomcat, Jetty, Nginx  
+**Platforms:** Windows, Linux
+
+---
+
+# 6) HCL Technologies
+
+**Role:** Senior Software Engineer  
+**Tenure:** Nov 2015 – Jul 2018  
+**Clients/Projects:** UTi – eMpower | Cisco – Polaris Web | IBM – DRM
+
+### Project Description
+
+**UTi (eMpower):** Developed Consolidation Planning functionality for freight forwarding, supporting consolidation of multiple orders into shipments, HB allocation/deallocation, order tracking, and waybill search.
+
+**Cisco (Polaris Web):** Developed web and mobile interfaces for Cisco Switching, providing setup wizards, simplified device management, telemetry information, and troubleshooting capabilities.
+
+**IBM (DRM):** Contributed to disaster-recovery services for hybrid enterprise environments, supporting predictable recovery, business continuity, and regulatory requirements.
+
+### Backend & Enterprise Application Development
+
+● Designed, developed, and maintained enterprise applications using **Java, J2EE, Spring, Spring Boot, JPA, Struts, REST services, and microservices**.
+
+● Implemented reusable service, business, and persistence layers for enterprise workflows.
+
+● Developed REST services and integrated backend applications with Oracle databases.
+
+● Applied object-oriented design, design patterns, exception handling, transaction management, and enterprise Java best practices.
+
+### Database & Integration Engineering
+
+● Developed SQL and PL/SQL queries, stored procedures, and database integrations using **Oracle 11g and SQL Developer**.
+
+● Integrated enterprise applications using REST, XML, and Java-based service components.
+
+● Supported data validation, persistence, query optimization, and database troubleshooting.
+
+### Front-End Engineering
+
+● Developed responsive user interfaces using **JSP, HTML, CSS, JavaScript, jQuery, AJAX, and AngularJS**.
+
+● Built adaptive interfaces for desktop, tablet, and mobile platforms.
+
+● Integrated UI components with Java backend services and enterprise workflows.
+
+### Infrastructure & Deployment
+
+● Supported application deployments on **Jetty and Oracle Application Server**.
+
+● Worked extensively with Linux/UNIX environments, PuTTY, shell commands, and operational scripts.
+
+● Contributed to disaster-recovery planning, recovery validation, environment readiness, and business-continuity activities.
+
+### Code Quality & Engineering Practices
+
+● Conducted peer code reviews and implemented recommendations for maintainability and performance.
+
+● Used Maven and applicable static-analysis/coding-standard practices for Java development.
+
+● Applied structured logging using Log4j for debugging and production troubleshooting.
+
+### Testing & Quality Engineering
+
+● Developed and executed **JUnit** unit tests.
+
+● Performed functional, integration, regression, and system testing.
+
+● Participated in defect analysis and resolution across development, QA, and production environments.
+
+### Security & Reliability
+
+● Applied enterprise authentication, authorization, input validation, exception handling, and secure application-development practices.
+
+● Supported disaster-recovery, availability, and operational-resilience requirements for enterprise applications.
+
+● Assisted with production issue resolution and system-recovery activities.
+
+### Performance & Production Support
+
+● Performed Java and SQL performance optimization and application troubleshooting.
+
+● Analyzed application logs and database behavior to identify production issues.
+
+● Supported performance improvements across backend services, database queries, and UI workflows.
+
+### Architecture & Team Collaboration
+
+● Analyzed requirements using **use cases, sequence diagrams, decision tables, and decision trees**.
+
+● Participated in technical design, code review, implementation, testing, and deployment activities.
+
+● Maintained technical documentation and collaborated with onsite/offshore development and QA teams.
+
+### Environment
+
+**Languages:** Java 1.7/8, JavaScript, SQL, PL/SQL  
+**Backend:** J2EE, Struts, Spring, Spring Boot, JPA, REST, Microservices  
+**Frontend:** AngularJS, JSP, HTML, CSS, jQuery, AJAX  
+**Database:** Oracle 11g  
+**Integration:** REST, XML  
+**Testing:** JUnit  
+**Build/Development:** Maven, Eclipse, SVN  
+**Servers:** Jetty, Oracle Application Server  
+**Platforms:** UNIX, Linux, Windows, Bash Shell, PuTTY  
+**Methodology:** Agile
+
+---
+
+# 7) Beyontec 2nABLE Solutions Pvt. Ltd.
+
+**Role:** Associate Software Engineer  
+**Tenure:** May 2014 – Nov 2015  
+**Clients:** Emirates Insurance Company (EIC), ADNIC, Union Insurance  
+**Projects:** EZYInsure & EzyMap
+
+### Project Description
+
+Contributed to **EZYInsure**, a workflow-driven enterprise insurance platform supporting English and Arabic transactions and integration with external services including payment gateways, automobile-data providers, RightFax, and messaging systems.
+
+Also contributed to **EzyMap**, a location-based insurance application providing policy visualization through Google Maps, geographic distance calculations, policy registration, and Excel-based bulk policy uploads.
+
+### Backend & Enterprise Application Development
+
+● Developed enterprise insurance functionality using **Java/J2EE, Struts, Hibernate, JSP, XML, and MVC architecture**.
+
+● Implemented business workflows supporting insurance-policy administration, commissions, operational reports, and inventory-related functionality.
+
+● Developed reusable server-side components and integrated application workflows with persistence layers.
+
+● Used Hibernate for ORM-based data access and transaction handling.
+
+### Integration & Data Processing
+
+● Integrated external systems including payment gateways, RightFax, automobile-data services, and messaging platforms.
+
+● Used **Apache POI** for Excel-based policy generation, processing, and bulk uploads.
+
+● Implemented XML/AJAX-based integrations between frontend and backend components.
+
+● Integrated **Google Maps API V3** for policy visualization and air-distance calculations.
+
+### Front-End Engineering
+
+● Developed user interfaces using **HTML, CSS, JavaScript, jQuery, JSP, and AJAX**.
+
+● Supported both English and Arabic application workflows.
+
+● Implemented dynamic forms, validation, reporting interfaces, and interactive application components.
+
+### Environment & Deployment
+
+● Configured and supported **Testing and UAT environments**.
+
+● Supported application deployment and troubleshooting across Windows and Linux environments.
+
+● Assisted with release validation and environment-specific configuration.
+
+### Code Quality & Engineering Practices
+
+● Followed Java/J2EE coding standards and object-oriented development practices.
+
+● Participated in peer reviews, debugging, defect resolution, and application optimization.
+
+● Maintained structured and reusable code across MVC application layers.
+
+### Testing & Quality Engineering
+
+● Developed and executed unit tests using **JUnit**.
+
+● Performed functional, integration, and regression testing.
+
+● Supported UAT defect investigation, remediation, and release validation.
+
+### Security & Reliability
+
+● Implemented input validation, controlled data access, exception handling, and secure integration practices.
+
+● Supported secure interaction with external insurance, payment, messaging, and mapping systems.
+
+● Assisted with troubleshooting integration failures and transaction-processing issues.
+
+### Performance & Production Support
+
+● Diagnosed and resolved application defects across UI, business, persistence, and integration layers.
+
+● Improved application performance through query optimization, code improvements, and efficient integration processing.
+
+● Supported testing and UAT teams during defect triage and release cycles.
+
+### Architecture & Team Collaboration
+
+● Worked with senior developers, business analysts, and QA teams to understand insurance requirements and convert them into application functionality.
+
+● Participated in requirements analysis, development, testing, integration, and release activities.
+
+● Maintained technical documentation and supported knowledge transfer within the development team.
+
+### Environment
+
+**Languages:** Java/J2EE, JavaScript  
+**Frameworks:** Struts, Hibernate, JSP  
+**Frontend:** HTML, CSS, JavaScript, jQuery, AJAX  
+**Integration:** XML, Google Maps API V3, Apache POI  
+**Testing:** JUnit  
+**Reporting:** iReports  
+**Platforms:** Windows, Linux
