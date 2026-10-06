@@ -1,6 +1,6 @@
 # Sri Krishna Teja Kamma — Digital Resume
 
-A responsive, animated static portfolio built with HTML, CSS, and vanilla JavaScript. Includes all seven employers, four project highlights, original animated GIF artwork, the supplied portrait, and a complete printable resume generated from `Resume.txt`.
+A responsive, animated static portfolio built with HTML, CSS, and vanilla JavaScript. Includes all seven employers, seven detailed contribution profiles with domain filters, ten searchable skill areas, original animated GIF artwork, the supplied portrait, and a complete printable resume generated from `Resume.txt`.
 
 ## Open the website
 

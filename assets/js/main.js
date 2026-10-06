@@ -75,7 +75,7 @@
       card.hidden = filter !== 'all' && !card.dataset.category.split(' ').includes(filter);
       if (!card.hidden) { count++; card.classList.add('visible'); }
     });
-    document.querySelector('#filter-status').textContent = `${count} ${count === 1 ? 'project' : 'projects'} shown.`;
+    document.querySelector('#filter-status').textContent = `${count} ${count === 1 ? 'contribution' : 'contributions'}${filter === 'all' ? '' : ` · ${button.textContent.trim()}`}`;
   }));
 
   const toast = document.querySelector('.toast');
