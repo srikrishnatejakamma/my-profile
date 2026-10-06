@@ -1,5 +1,9 @@
 /* Summary and skills presentation, using the portfolio's established palette. */
 [hidden]{display:none!important}
+.ribbon-track{animation:ribbonDrift 30s ease-in-out infinite alternate}
+.tech-ribbon:hover .ribbon-track{animation-play-state:paused}
+.motion-off .tech-ribbon{overflow-x:auto}
+@media(prefers-reduced-motion:reduce){.tech-ribbon{overflow-x:auto}}
 .hero h1{font-size:clamp(60px,6.4vw,86px);letter-spacing:-4.2px;line-height:1.02;margin-bottom:24px}
 .hero-description{max-width:490px;font-size:14px;line-height:1.8;margin-bottom:18px}
 .hero-strengths{display:flex;flex-wrap:wrap;gap:9px 18px;padding:0 0 26px;color:#91aaa0;font-size:10px;line-height:1.7}

@@ -8,7 +8,7 @@ Open `index.html` directly in your browser, or run `npm start` and visit `http:/
 
 ## Build for hosting
 
-Run `npm run build`. Upload the contents of `dist/` to any static website host. The build regenerates `resume.html` from the original `Resume.txt` and copies the site into `dist/`.
+Run `npm run build`. Upload the contents of `dist/` to any static website host. The build regenerates `resume.html` from the original `Resume.txt` and copies the site into `dist/`, including `Sri_Krishna_Teja_Kamma_Resume.doc` for both resume download links.
 
 Edit `index.html` for the portfolio content, `assets/css/style.css` for appearance, and `assets/js/main.js` for interactions. Update `Resume.txt` and rebuild to update the full resume. Portfolio summaries are maintained separately in `index.html`.
 
