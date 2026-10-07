@@ -5,7 +5,7 @@
     "role": "Senior Tech Lead",
     "tenure": "Jan 2025 – Jun 2026",
     "project": "HRMS (TriNet)",
-    "overview": "Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing.",
+    "overview": "Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing. Supported SIEM-based security monitoring and incident triage.",
     "responsibilities": [
       "Architecture & ownership: Defined domain-oriented service boundaries, database ownership, API contracts and deployment patterns for independently deployable HR microservices; reviewed trade-offs in scalability, consistency, security and operational complexity.",
       "Backend engineering: Designed and developed Java 21/Spring Boot, Go and Python/FastAPI services using Hibernate/JPA, REST, GraphQL and gRPC; implemented validation, versioning, transaction handling and idempotent processing.",
@@ -19,8 +19,10 @@
       "DevSecOps & release readiness: Designed Jenkins/GitLab CI/CD pipelines with automated builds, tests, artifacts, SonarQube/JaCoCo quality gates and Fortify, Snyk, CodeQL and Trivy scanning before production promotion.",
       "Quality & security: Established unit, integration, API, contract and end-to-end test coverage; applied OAuth 2.0, JWT, RBAC, IAM, TLS and secrets-management controls to protect sensitive HR information.",
       "Production engineering: Implemented health probes, autoscaling, caching, timeouts, circuit breakers and retries; used Prometheus, Grafana, ELK/OpenSearch and CloudWatch for performance analysis, incident investigation and root cause analysis.",
+      "SIEM & security operations: Integrated HR, payroll, authentication and API audit logs into SIEM monitoring; investigated access anomalies and security alerts and coordinated incident triage with security and operations teams.",
       "Technical leadership: Led architecture and code reviews, mentored backend and frontend engineers, and coordinated product, QA, DevOps, cloud, security and data teams through design, delivery and production-readiness reviews."
-    ]
+    ],
+    "siem_focus": "HR and payroll audit-log ingestion, access-event correlation, security alert triage and sensitive-data monitoring across cloud-native services."
   },
   {
     "company": "Publicis Sapient",
@@ -28,7 +30,7 @@
     "role": "Senior Associate Technology L2",
     "tenure": "Aug 2023 – Apr 2024",
     "project": "Verizon",
-    "overview": "Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions.",
+    "overview": "Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions. Supported SIEM-based security monitoring and incident triage.",
     "responsibilities": [
       "Service engineering: Developed and maintained Java/Spring Boot, Go, Python and Node.js microservices for customer and telecom workflows; supported REST, GraphQL and gRPC integrations across enterprise services.",
       "Billing & customer workflows: Supported customer-account billing, subscription, invoicing and payment integrations; investigated API failures and downstream dependency issues affecting digital transactions.",
@@ -41,7 +43,8 @@
       "Incident management: Triaged and tracked production incidents through ServiceNow and Jira; correlated ELK, Splunk and CloudWatch logs with Kafka and infrastructure metrics to identify root causes and coordinate remediation.",
       "Testing & resilience: Maintained unit, API, integration and regression tests; applied timeouts, retries, circuit breakers, fallbacks and asynchronous processing while diagnosing concurrency, memory and database-connection issues.",
       "Engineering collaboration: Reviewed code and worked with development, security, DevOps, operations and product teams on release readiness, technical-debt remediation, performance improvements and production stabilization."
-    ]
+    ],
+    "siem_focus": "Security alert investigation, suspicious API activity, correlation-rule tuning and incident response using Splunk/ELK."
   },
   {
     "company": "Cognizant",
@@ -66,7 +69,8 @@
       "SIEM & security operations: Integrated application, authentication, API and audit logs into SIEM monitoring; investigated correlated security alerts and suspicious access patterns using Splunk/ELK, supported correlation-rule tuning and coordinated incident triage with security and operations teams.",
       "Production readiness: Configured Prometheus, Grafana, ELK, Azure Monitor and CloudWatch monitoring; tuned APIs and databases and supported caching, autoscaling, health checks, incident investigation and root cause analysis.",
       "Team leadership: Mentored backend and frontend developers, established coding and review standards, and coordinated QA, DevOps, security, product and business stakeholders through implementation, testing and deployment."
-    ]
+    ],
+    "siem_focus": "Authentication, API and audit-log correlation, Splunk/ELK alert investigation, correlation-rule tuning and security incident triage."
   },
   {
     "company": "Tech Mahindra",
@@ -74,7 +78,7 @@
     "role": "Senior Product Engineer / Java Tech Lead",
     "tenure": "Sep 2019 – May 2021",
     "project": "IMC Mayo & IMC Patient Portal",
-    "overview": "Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations.",
+    "overview": "Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations. Supported SIEM-based security monitoring and incident triage.",
     "responsibilities": [
       "Delivery leadership: Coordinated onsite and offshore engineers through technical design, implementation, code reviews, testing and deployment; maintained technical documentation and operational troubleshooting guidance.",
       "Backend services: Designed Spring Boot/Spring MVC services for patient registration, appointments, reports and healthcare content; consolidated reusable service components to reduce duplicated business logic.",
@@ -85,8 +89,10 @@
       "Cloud & deployments: Deployed and supported applications on AWS EC2, S3 and Lambda; managed test and production configurations on Linux and supported Docker packaging, IAM and CloudWatch monitoring.",
       "Build & code quality: Supported Maven build and release workflows; used SonarQube, JaCoCo, PMD, Checkstyle and Fortify/SAST findings in code reviews, quality validation and vulnerability remediation.",
       "Security & testing: Applied OAuth 2.0, JWT, TLS, CSRF protection, API rate limiting and secure logging for sensitive patient information; developed JUnit/Mockito tests and mock-based integration coverage.",
+      "SIEM & security operations: Supported patient-portal authentication, API and audit-log monitoring through SIEM; investigated suspicious access and security alerts and coordinated healthcare incident triage with security and support teams.",
       "Production support: Investigated ELK/CloudWatch logs, API failures and database issues; optimized service layers and queries, performed root cause analysis and shared technical walkthroughs with development and support teams."
-    ]
+    ],
+    "siem_focus": "Patient-portal access logs, authentication/API events, security alert triage and incident investigation for healthcare services."
   },
   {
     "company": "EPSoft Technologies",
@@ -94,7 +100,7 @@
     "role": "Senior Software Engineer",
     "tenure": "Aug 2018 – Sep 2019",
     "project": "ezFlow (Aiotal)",
-    "overview": "Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization.",
+    "overview": "Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization. Supported SIEM-based security monitoring and incident triage.",
     "responsibilities": [
       "Platform engineering: Designed Java/Spring Boot, Spring MVC, JPA and REST service components for data ingestion, transformation and persistence; participated from requirements analysis through deployment.",
       "Pipeline processing: Implemented Spring Batch jobs for scheduled and high-volume processing and worked with Apache Beam for distributed data-pipeline use cases.",
@@ -105,8 +111,10 @@
       "Cloud & deployment support: Supported AWS-hosted environments, Docker packaging and Kubernetes services; worked with Tomcat, Jetty and Nginx for application hosting and deployment troubleshooting.",
       "Build & quality: Managed Maven builds and dependencies; used SonarQube, JaCoCo, PMD and Checkstyle to support code reviews, coding standards and automated quality checks.",
       "Testing & operations: Developed JUnit/Mockito tests and supported integration and regression validation; used Log4j to diagnose issues across UI, service, database and infrastructure layers.",
+      "SIEM & security operations: Supported ingestion of data-platform service and audit logs into SIEM; investigated suspicious access, correlated application events and helped triage security incidents across data-processing workflows.",
       "Team coordination: Guided offshore developers, reviewed code and tracked delivery with onsite technical leads and QA teams; supported architecture discussions and technical problem-solving."
-    ]
+    ],
+    "siem_focus": "Data-platform audit logs, user-activity correlation, service alert triage and suspicious-access investigation."
   },
   {
     "company": "HCL Technologies",
@@ -114,7 +122,7 @@
     "role": "Senior Software Engineer",
     "tenure": "Nov 2015 – Jul 2018",
     "project": "UTi – eMpower | Cisco – Polaris Web | IBM – DRM",
-    "overview": "Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services.",
+    "overview": "Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services. Supported SIEM-based security monitoring and incident triage. Responsibilities also covered billing and payment-service integrations.",
     "responsibilities": [
       "Freight workflows: Developed UTi eMpower consolidation-planning functionality for grouping orders into shipments, HB allocation/deallocation, order tracking and waybill search.",
       "Device-management interfaces: Built Cisco Polaris Web setup wizards and responsive device-management screens supporting telemetry information and troubleshooting across desktop, tablet and mobile devices.",
@@ -122,11 +130,15 @@
       "Enterprise Java: Developed reusable business, service and persistence layers using Java/J2EE, Spring, Spring Boot, JPA and Struts; applied object-oriented design, transaction management and exception handling.",
       "Database engineering: Developed Oracle 11g SQL/PLSQL queries, stored procedures and integrations; supported data validation, persistence, query optimization and database troubleshooting.",
       "Web & service integration: Built JSP, AngularJS, JavaScript, jQuery and AJAX interfaces and integrated them with Java REST/XML services and enterprise workflows.",
+      "Billing & payments: Supported enterprise invoicing and payment-service integrations using Java/REST/XML; implemented transaction validation, payment-status handling and reconciliation with secure access and consistent error handling.",
       "Deployment & support: Supported Jetty and Oracle Application Server deployments and Linux/UNIX operational tasks using shell commands and PuTTY; analyzed Log4j output during issue investigation.",
       "Testing & secure development: Developed JUnit tests and supported integration, regression and system validation; applied authentication, authorization, input validation and secure exception handling.",
       "Code quality & performance: Conducted peer reviews, managed Maven builds and improved Java, SQL and UI processing paths for maintainability and application performance.",
+      "SIEM & security operations: Supported enterprise application, server and authentication-log monitoring through SIEM; correlated audit events, investigated security alerts and assisted security and operations teams with incident triage.",
       "Design & collaboration: Analyzed requirements using use cases, sequence diagrams and decision tables; maintained technical documentation and worked with onsite/offshore engineers and QA through delivery."
-    ]
+    ],
+    "siem_focus": "Enterprise application/server logs, authentication and audit-event correlation, security alert investigation and incident triage.",
+    "billing_focus": "Enterprise invoicing, payment-service integration, transaction validation, payment-status handling and reconciliation."
   },
   {
     "company": "Beyontec 2nABLE Solutions Pvt. Ltd.",

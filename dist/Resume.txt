@@ -76,6 +76,8 @@ Experienced in building and leading cross-functional engineering teams, conducti
 
 ### Engagement Focus
 
+**SIEM & security operations:** HR and payroll audit-log ingestion, access-event correlation, security alert triage and sensitive-data monitoring across cloud-native services.
+
 **AI & GenAI:** RAG, policy retrieval, document processing, LangChain/LangGraph agents, and OpenAI/Azure OpenAI integration.
 
 **Billing:** Billing APIs, invoicing, payment integration, subscription workflows, and reconciliation.
@@ -86,7 +88,7 @@ Experienced in building and leading cross-functional engineering teams, conducti
 
 ### Project Description
 
-Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing.
+Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing. Supported SIEM-based security monitoring and incident triage.
 
 ### Roles & Responsibilities
 
@@ -114,10 +116,13 @@ Led architecture and hands-on engineering for a cloud-native HR management platf
 
 ● Production engineering: Implemented health probes, autoscaling, caching, timeouts, circuit breakers and retries; used Prometheus, Grafana, ELK/OpenSearch and CloudWatch for performance analysis, incident investigation and root cause analysis.
 
+● SIEM & security operations: Integrated HR, payroll, authentication and API audit logs into SIEM monitoring; investigated access anomalies and security alerts and coordinated incident triage with security and operations teams.
+
 ● Technical leadership: Led architecture and code reviews, mentored backend and frontend engineers, and coordinated product, QA, DevOps, cloud, security and data teams through design, delivery and production-readiness reviews.
 
 ### Environment
 
+**SIEM/Security Operations:** SIEM, Security Log Ingestion, Audit Logging, Event Correlation, Alert Investigation, Incident Triage
 **Languages:** Java 21, Python, Go, JavaScript, TypeScript, SQL  
 **Backend:** Spring Boot, Spring MVC, Spring Security, FastAPI, Node.js, Hibernate, JPA, REST, GraphQL, gRPC  
 **AI/GenAI:** LLMs, AI Agents, RAG, LangChain, LangGraph, Embeddings, Vector Databases, Semantic Search, OpenAI, Azure OpenAI  
@@ -140,6 +145,8 @@ Led architecture and hands-on engineering for a cloud-native HR management platf
 
 ### Engagement Focus
 
+**SIEM & security operations:** Security alert investigation, suspicious API activity, correlation-rule tuning and incident response using Splunk/ELK.
+
 **AI & GenAI:** LLM/RAG-based operational knowledge retrieval, incident analysis, log summarization, and troubleshooting assistance.
 
 **Billing:** Customer-account billing, subscription workflows, invoicing, billing APIs, and payment integration.
@@ -150,7 +157,7 @@ Led architecture and hands-on engineering for a cloud-native HR management platf
 
 ### Project Description
 
-Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions.
+Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions. Supported SIEM-based security monitoring and incident triage.
 
 ### Roles & Responsibilities
 
@@ -178,6 +185,7 @@ Developed and supported distributed services within Verizon's digital ecosystem 
 
 ### Environment
 
+**SIEM/Security Operations:** SIEM, Security Log Ingestion, Audit Logging, Event Correlation, Alert Investigation, Incident Triage
 **Languages:** Java, Go, Python, JavaScript, TypeScript  
 **Backend:** Spring Boot, Node.js, REST, GraphQL, gRPC, Microservices  
 **AI/GenAI:** LLMs, RAG, LangChain, OpenAI, Azure OpenAI, Embeddings, Semantic Search  
@@ -272,6 +280,8 @@ Led technical design and delivery across OCH healthcare services and UAE PASS di
 
 ### Engagement Focus
 
+**SIEM & security operations:** Patient-portal access logs, authentication/API events, security alert triage and incident investigation for healthcare services.
+
 **Billing:** Patient-service billing, invoicing, payment APIs, and financial workflow integration.
 
 **Development & operations:** Java/Spring Boot, Angular, REST integrations, Spring Batch, Maven builds, quality checks, release support, and production operations.
@@ -280,7 +290,7 @@ Led technical design and delivery across OCH healthcare services and UAE PASS di
 
 ### Project Description
 
-Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations.
+Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations. Supported SIEM-based security monitoring and incident triage.
 
 ### Roles & Responsibilities
 
@@ -302,10 +312,13 @@ Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcar
 
 ● Security & testing: Applied OAuth 2.0, JWT, TLS, CSRF protection, API rate limiting and secure logging for sensitive patient information; developed JUnit/Mockito tests and mock-based integration coverage.
 
+● SIEM & security operations: Supported patient-portal authentication, API and audit-log monitoring through SIEM; investigated suspicious access and security alerts and coordinated healthcare incident triage with security and support teams.
+
 ● Production support: Investigated ELK/CloudWatch logs, API failures and database issues; optimized service layers and queries, performed root cause analysis and shared technical walkthroughs with development and support teams.
 
 ### Environment
 
+**SIEM/Security Operations:** SIEM, Security Log Ingestion, Audit Logging, Event Correlation, Alert Investigation, Incident Triage
 **Languages:** Java, Python, JavaScript  
 **Backend:** Spring Boot, Spring MVC, Spring Batch, REST APIs, Microservices  
 **Frontend:** Angular, HTML5, CSS3  
@@ -327,6 +340,8 @@ Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcar
 
 ### Engagement Focus
 
+**SIEM & security operations:** Data-platform audit logs, user-activity correlation, service alert triage and suspicious-access investigation.
+
 **Billing:** Billing APIs, usage-data processing, invoicing, and payment-service integration.
 
 **Development & operations:** Java/Spring Boot, Angular, Kafka, Spring Batch, Maven, automated quality checks, logging, and data-platform troubleshooting.
@@ -335,7 +350,7 @@ Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcar
 
 ### Project Description
 
-Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization.
+Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization. Supported SIEM-based security monitoring and incident triage.
 
 ### Roles & Responsibilities
 
@@ -357,10 +372,13 @@ Developed ezFlow, an enterprise data-management platform for ingesting, connecti
 
 ● Testing & operations: Developed JUnit/Mockito tests and supported integration and regression validation; used Log4j to diagnose issues across UI, service, database and infrastructure layers.
 
+● SIEM & security operations: Supported ingestion of data-platform service and audit logs into SIEM; investigated suspicious access, correlated application events and helped triage security incidents across data-processing workflows.
+
 ● Team coordination: Guided offshore developers, reviewed code and tracked delivery with onsite technical leads and QA teams; supported architecture discussions and technical problem-solving.
 
 ### Environment
 
+**SIEM/Security Operations:** SIEM, Security Log Ingestion, Audit Logging, Event Correlation, Alert Investigation, Incident Triage
 **Languages:** Java, JavaScript, SQL  
 **Backend:** Spring Boot, Spring MVC, Spring Batch, JPA, REST, Microservices  
 **Streaming/Data:** Kafka, Apache Beam  
@@ -380,9 +398,15 @@ Developed ezFlow, an enterprise data-management platform for ingesting, connecti
 **Tenure:** Nov 2015 – Jul 2018  
 **Clients/Projects:** UTi – eMpower | Cisco – Polaris Web | IBM – DRM
 
+### Engagement Focus
+
+**SIEM & security operations:** Enterprise application/server logs, authentication and audit-event correlation, security alert investigation and incident triage.
+
+**Billing & payments:** Enterprise invoicing, payment-service integration, transaction validation, payment-status handling and reconciliation.
+
 ### Project Description
 
-Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services.
+Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services. Supported SIEM-based security monitoring and incident triage. Responsibilities also covered billing and payment-service integrations.
 
 ### Roles & Responsibilities
 
@@ -398,16 +422,22 @@ Delivered enterprise Java and web applications across freight forwarding, networ
 
 ● Web & service integration: Built JSP, AngularJS, JavaScript, jQuery and AJAX interfaces and integrated them with Java REST/XML services and enterprise workflows.
 
+● Billing & payments: Supported enterprise invoicing and payment-service integrations using Java/REST/XML; implemented transaction validation, payment-status handling and reconciliation with secure access and consistent error handling.
+
 ● Deployment & support: Supported Jetty and Oracle Application Server deployments and Linux/UNIX operational tasks using shell commands and PuTTY; analyzed Log4j output during issue investigation.
 
 ● Testing & secure development: Developed JUnit tests and supported integration, regression and system validation; applied authentication, authorization, input validation and secure exception handling.
 
 ● Code quality & performance: Conducted peer reviews, managed Maven builds and improved Java, SQL and UI processing paths for maintainability and application performance.
 
+● SIEM & security operations: Supported enterprise application, server and authentication-log monitoring through SIEM; correlated audit events, investigated security alerts and assisted security and operations teams with incident triage.
+
 ● Design & collaboration: Analyzed requirements using use cases, sequence diagrams and decision tables; maintained technical documentation and worked with onsite/offshore engineers and QA through delivery.
 
 ### Environment
 
+**Billing & Payments:** Invoicing, Payment-Service Integration, Transaction Validation, Payment Status, Reconciliation
+**SIEM/Security Operations:** SIEM, Security Log Ingestion, Audit Logging, Event Correlation, Alert Investigation, Incident Triage
 **Languages:** Java 1.7/8, JavaScript, SQL, PL/SQL  
 **Backend:** J2EE, Struts, Spring, Spring Boot, JPA, REST, Microservices  
 **Frontend:** AngularJS, JSP, HTML, CSS, jQuery, AJAX  
