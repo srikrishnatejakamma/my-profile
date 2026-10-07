@@ -1,0 +1,147 @@
+[
+  {
+    "company": "Coforge",
+    "source_heading": "1) Coforge",
+    "role": "Senior Tech Lead",
+    "tenure": "Jan 2025 – Jun 2026",
+    "project": "HRMS (TriNet)",
+    "overview": "Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing.",
+    "responsibilities": [
+      "Architecture & ownership: Defined domain-oriented service boundaries, database ownership, API contracts and deployment patterns for independently deployable HR microservices; reviewed trade-offs in scalability, consistency, security and operational complexity.",
+      "Backend engineering: Designed and developed Java 21/Spring Boot, Go and Python/FastAPI services using Hibernate/JPA, REST, GraphQL and gRPC; implemented validation, versioning, transaction handling and idempotent processing.",
+      "Event-driven workflows: Designed Kafka topics, partitioning, consumer groups, schema evolution, retry topics and dead-letter queues for payroll, benefits, onboarding and compliance events; applied replay and duplicate-processing controls.",
+      "Data processing: Built Spark/Flink batch and streaming pipelines for payroll transactions, employee activity, workforce analytics and compliance reporting, with checkpointing and recovery handling.",
+      "AI & knowledge retrieval: Developed Python/FastAPI RAG services for policy search, document summarization and contextual employee support; implemented document parsing, chunking, embeddings, vector indexing and semantic retrieval.",
+      "Agent workflows: Integrated OpenAI/Azure OpenAI and LangChain/LangGraph workflows for policy assistance and document processing, applying contextual grounding, response validation, access controls and sensitive-data protection.",
+      "Billing integration: Implemented billing APIs and integration workflows for invoicing, subscriptions, payments and reconciliation alongside HR services, with validation and reliable transaction handling.",
+      "Full-stack delivery: Developed React, Next.js and Angular interfaces integrated with enterprise APIs; implemented reusable components, authenticated workflows, form validation, error handling and frontend performance improvements.",
+      "Cloud & infrastructure: Designed AWS workloads using EKS/ECS, Lambda, API Gateway, RDS, DynamoDB and S3; automated infrastructure with Terraform, CloudFormation and Ansible and managed Docker/Kubernetes deployments through Helm.",
+      "DevSecOps & release readiness: Designed Jenkins/GitLab CI/CD pipelines with automated builds, tests, artifacts, SonarQube/JaCoCo quality gates and Fortify, Snyk, CodeQL and Trivy scanning before production promotion.",
+      "Quality & security: Established unit, integration, API, contract and end-to-end test coverage; applied OAuth 2.0, JWT, RBAC, IAM, TLS and secrets-management controls to protect sensitive HR information.",
+      "Production engineering: Implemented health probes, autoscaling, caching, timeouts, circuit breakers and retries; used Prometheus, Grafana, ELK/OpenSearch and CloudWatch for performance analysis, incident investigation and root cause analysis.",
+      "Technical leadership: Led architecture and code reviews, mentored backend and frontend engineers, and coordinated product, QA, DevOps, cloud, security and data teams through design, delivery and production-readiness reviews."
+    ]
+  },
+  {
+    "company": "Publicis Sapient",
+    "source_heading": "2) Publicis Sapient",
+    "role": "Senior Associate Technology L2",
+    "tenure": "Aug 2023 – Apr 2024",
+    "project": "Verizon",
+    "overview": "Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions.",
+    "responsibilities": [
+      "Service engineering: Developed and maintained Java/Spring Boot, Go, Python and Node.js microservices for customer and telecom workflows; supported REST, GraphQL and gRPC integrations across enterprise services.",
+      "Billing & customer workflows: Supported customer-account billing, subscription, invoicing and payment integrations; investigated API failures and downstream dependency issues affecting digital transactions.",
+      "Kafka reliability: Troubleshot consumer lag, failed messages, duplicate processing and offset-management issues; supported topics, partitions, consumer groups, retries and dead-letter queues for asynchronous processing.",
+      "Operational AI: Developed Python-based LLM/RAG capabilities for operational-document retrieval, historical incident search, log summarization and troubleshooting assistance, using LangChain, embeddings and OpenAI/Azure OpenAI with access controls.",
+      "Frontend support: Enhanced React, Next.js and Angular applications and resolved issues involving API integration, authentication, state management, rendering performance and error handling.",
+      "Cloud & operations: Supported AWS-hosted workloads, Docker packaging and Kubernetes deployments; investigated environment configuration, IAM, networking, scaling and application-telemetry issues.",
+      "DevSecOps: Supported GitLab CI/CD build, test, security-analysis and deployment stages; applied SonarQube/JaCoCo, Fortify, Snyk and dependency-scan findings during code reviews and release validation.",
+      "Security monitoring: Investigated SIEM alerts and suspicious API activity; supported OAuth 2.0, JWT, SSO, TLS, least-privilege access and gateway controls and tuned correlation rules for anomalous activity.",
+      "Incident management: Triaged and tracked production incidents through ServiceNow and Jira; correlated ELK, Splunk and CloudWatch logs with Kafka and infrastructure metrics to identify root causes and coordinate remediation.",
+      "Testing & resilience: Maintained unit, API, integration and regression tests; applied timeouts, retries, circuit breakers, fallbacks and asynchronous processing while diagnosing concurrency, memory and database-connection issues.",
+      "Engineering collaboration: Reviewed code and worked with development, security, DevOps, operations and product teams on release readiness, technical-debt remediation, performance improvements and production stabilization."
+    ]
+  },
+  {
+    "company": "Cognizant",
+    "source_heading": "3) Cognizant",
+    "role": "Technical Lead",
+    "tenure": "May 2021 – Aug 2023",
+    "project": "OCH & UAE PASS",
+    "overview": "Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access to government/private services and electronic document signing.",
+    "responsibilities": [
+      "Technical design: Defined microservice boundaries, API contracts and integration patterns for healthcare and identity workflows; led architecture reviews and translated business requirements into technical designs.",
+      "Backend delivery: Developed Java/Spring Boot, Go and Python services with Hibernate/JPA and REST, GraphQL and gRPC APIs; implemented validation, transaction management, exception handling, versioning and concurrency controls.",
+      "Healthcare workflows: Developed and integrated OCH services for patient records, appointments, billing, invoicing, payment integration and operational reporting with secure access to healthcare information.",
+      "Digital identity: Implemented secure authentication, authorization, auditing and service-integration workflows supporting UAE PASS identity verification, digital access and document-signing capabilities.",
+      "Event & data processing: Designed Kafka workflows for healthcare events, identity notifications and audit records; supported Spark/Flink batch and streaming workloads with consumer-group, retry, offset and dead-letter handling.",
+      "Frontend delivery: Developed Angular and React applications integrated with backend services, using reusable components, responsive layouts, validation and authenticated user flows.",
+      "Cloud engineering: Integrated AWS Lambda, API Gateway, S3, RDS and DynamoDB services and supported AWS, Azure and GCP environments; containerized workloads with Docker and deployed through Kubernetes/EKS and Helm.",
+      "DevSecOps & automation: Built and supported Jenkins/GitLab CI/CD pipelines and Terraform automation; incorporated SonarQube, JaCoCo, PMD, Checkstyle, Fortify and dependency checks into release validation.",
+      "Security & quality: Applied OAuth 2.0, JWT, TLS, IAM, encryption, API rate limiting and OWASP controls; implemented JUnit/Mockito, REST Assured and JMeter coverage for functional and performance validation.",
+      "Production readiness: Configured Prometheus, Grafana, ELK, Azure Monitor and CloudWatch monitoring; tuned APIs and databases and supported caching, autoscaling, health checks, incident investigation and root cause analysis.",
+      "Team leadership: Mentored backend and frontend developers, established coding and review standards, and coordinated QA, DevOps, security, product and business stakeholders through implementation, testing and deployment."
+    ]
+  },
+  {
+    "company": "Tech Mahindra",
+    "source_heading": "4) Tech Mahindra – International Medical Center",
+    "role": "Senior Product Engineer / Java Tech Lead",
+    "tenure": "Sep 2019 – May 2021",
+    "project": "IMC Mayo & IMC Patient Portal",
+    "overview": "Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations.",
+    "responsibilities": [
+      "Delivery leadership: Coordinated onsite and offshore engineers through technical design, implementation, code reviews, testing and deployment; maintained technical documentation and operational troubleshooting guidance.",
+      "Backend services: Designed Spring Boot/Spring MVC services for patient registration, appointments, reports and healthcare content; consolidated reusable service components to reduce duplicated business logic.",
+      "Healthcare integration: Developed REST integrations with external healthcare, SMS, notification and patient-service APIs, using standardized validation, exception handling and error responses.",
+      "Billing workflows: Integrated patient-service billing, invoicing and payment APIs with healthcare workflows, applying secure access and consistent transaction/error handling.",
+      "Batch processing: Implemented Spring Batch and scheduled jobs for notifications and operational healthcare processing; developed Java/Python mock services to simulate external dependencies during integration testing.",
+      "Frontend engineering: Built and supported Angular patient and administrative screens connected to Spring Boot APIs, with responsive layouts, input validation, authentication and error handling.",
+      "Cloud & deployments: Deployed and supported applications on AWS EC2, S3 and Lambda; managed test and production configurations on Linux and supported Docker packaging, IAM and CloudWatch monitoring.",
+      "Build & code quality: Supported Maven build and release workflows; used SonarQube, JaCoCo, PMD, Checkstyle and Fortify/SAST findings in code reviews, quality validation and vulnerability remediation.",
+      "Security & testing: Applied OAuth 2.0, JWT, TLS, CSRF protection, API rate limiting and secure logging for sensitive patient information; developed JUnit/Mockito tests and mock-based integration coverage.",
+      "Production support: Investigated ELK/CloudWatch logs, API failures and database issues; optimized service layers and queries, performed root cause analysis and shared technical walkthroughs with development and support teams."
+    ]
+  },
+  {
+    "company": "EPSoft Technologies",
+    "source_heading": "5) EPSoft Technologies",
+    "role": "Senior Software Engineer",
+    "tenure": "Aug 2018 – Sep 2019",
+    "project": "ezFlow (Aiotal)",
+    "overview": "Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization.",
+    "responsibilities": [
+      "Platform engineering: Designed Java/Spring Boot, Spring MVC, JPA and REST service components for data ingestion, transformation and persistence; participated from requirements analysis through deployment.",
+      "Pipeline processing: Implemented Spring Batch jobs for scheduled and high-volume processing and worked with Apache Beam for distributed data-pipeline use cases.",
+      "Event-driven integration: Developed Kafka-based asynchronous workflows connecting ingestion, transformation and downstream processing, with structured error handling and recovery mechanisms.",
+      "Data-store integration: Integrated MongoDB and relational sources; developed persistence and validation logic and tuned queries and data-processing paths.",
+      "Billing integration: Supported billing APIs, usage-data processing, invoicing and payment-service integration within platform workflows.",
+      "Frontend & visualization: Built Angular 1/8 interfaces, reusable components and Highcharts visualizations connected to REST APIs using JavaScript, HTML, CSS, jQuery and AJAX.",
+      "Cloud & deployment support: Supported AWS-hosted environments, Docker packaging and Kubernetes services; worked with Tomcat, Jetty and Nginx for application hosting and deployment troubleshooting.",
+      "Build & quality: Managed Maven builds and dependencies; used SonarQube, JaCoCo, PMD and Checkstyle to support code reviews, coding standards and automated quality checks.",
+      "Testing & operations: Developed JUnit/Mockito tests and supported integration and regression validation; used Log4j to diagnose issues across UI, service, database and infrastructure layers.",
+      "Team coordination: Guided offshore developers, reviewed code and tracked delivery with onsite technical leads and QA teams; supported architecture discussions and technical problem-solving."
+    ]
+  },
+  {
+    "company": "HCL Technologies",
+    "source_heading": "6) HCL Technologies",
+    "role": "Senior Software Engineer",
+    "tenure": "Nov 2015 – Jul 2018",
+    "project": "UTi – eMpower | Cisco – Polaris Web | IBM – DRM",
+    "overview": "Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services.",
+    "responsibilities": [
+      "Freight workflows: Developed UTi eMpower consolidation-planning functionality for grouping orders into shipments, HB allocation/deallocation, order tracking and waybill search.",
+      "Device-management interfaces: Built Cisco Polaris Web setup wizards and responsive device-management screens supporting telemetry information and troubleshooting across desktop, tablet and mobile devices.",
+      "Recovery services: Contributed to IBM DRM disaster-recovery services, environment readiness, recovery validation and business-continuity activities for hybrid enterprise environments.",
+      "Enterprise Java: Developed reusable business, service and persistence layers using Java/J2EE, Spring, Spring Boot, JPA and Struts; applied object-oriented design, transaction management and exception handling.",
+      "Database engineering: Developed Oracle 11g SQL/PLSQL queries, stored procedures and integrations; supported data validation, persistence, query optimization and database troubleshooting.",
+      "Web & service integration: Built JSP, AngularJS, JavaScript, jQuery and AJAX interfaces and integrated them with Java REST/XML services and enterprise workflows.",
+      "Deployment & support: Supported Jetty and Oracle Application Server deployments and Linux/UNIX operational tasks using shell commands and PuTTY; analyzed Log4j output during issue investigation.",
+      "Testing & secure development: Developed JUnit tests and supported integration, regression and system validation; applied authentication, authorization, input validation and secure exception handling.",
+      "Code quality & performance: Conducted peer reviews, managed Maven builds and improved Java, SQL and UI processing paths for maintainability and application performance.",
+      "Design & collaboration: Analyzed requirements using use cases, sequence diagrams and decision tables; maintained technical documentation and worked with onsite/offshore engineers and QA through delivery."
+    ]
+  },
+  {
+    "company": "Beyontec 2nABLE Solutions Pvt. Ltd.",
+    "source_heading": "7) Beyontec 2nABLE Solutions Pvt. Ltd.",
+    "role": "Associate Software Engineer",
+    "tenure": "May 2014 – Nov 2015",
+    "project": "EZYInsure & EzyMap",
+    "clients": "Emirates Insurance Company (EIC), ADNIC, Union Insurance",
+    "overview": "Developed insurance workflows for EZYInsure and location-based policy capabilities for EzyMap. Supported English/Arabic transactions, external insurance and payment integrations, policy visualization and Excel-based bulk policy processing.",
+    "responsibilities": [
+      "Insurance application development: Implemented Java/J2EE, Struts, Hibernate and JSP components for policy administration, commissions, operational reports and related insurance workflows within an MVC architecture.",
+      "Persistence & transactions: Developed reusable server-side components and Hibernate data-access logic; applied transaction handling, input validation, controlled access and exception management.",
+      "External integrations: Integrated payment gateways, automobile-data services, RightFax and messaging platforms; investigated integration failures and transaction-processing defects.",
+      "Policy uploads: Used Apache POI for Excel-based policy generation, processing and bulk uploads, connecting uploaded policy data with application workflows.",
+      "Mapping capabilities: Integrated Google Maps API V3 for EzyMap policy visualization and air-distance calculations and supported location-based policy registration features.",
+      "User interfaces: Developed JSP, HTML, CSS, JavaScript, jQuery and AJAX forms and reporting screens with dynamic validation for English and Arabic workflows.",
+      "Testing & UAT: Wrote JUnit tests and supported functional, integration and regression validation; investigated UAT defects, implemented fixes and assisted release verification.",
+      "Environment & troubleshooting: Configured test/UAT environments and supported Windows/Linux deployment configuration; resolved UI, business, persistence and integration issues and improved queries and code paths.",
+      "Team delivery: Worked with senior developers, business analysts and QA to turn insurance requirements into application functionality; participated in peer reviews, documentation and knowledge transfer."
+    ]
+  }
+]
