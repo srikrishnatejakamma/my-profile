@@ -14,7 +14,7 @@ Hands-on experience across **AWS, Microsoft Azure, and Google Cloud Platform (GC
 
 Strong experience in **Generative AI and Agentic AI application development**, including LLM integration, Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, embeddings, vector databases, semantic search, prompt engineering, and Python/FastAPI-based AI services. Experienced in integrating **OpenAI and Azure OpenAI** capabilities into existing enterprise microservices and cloud platforms.
 
-Proven expertise in **solution architecture, microservices and distributed-system design, API architecture, event-driven architecture, scalability, high availability, resilience, performance optimization, observability, and production engineering**. Strong security background encompassing **OAuth 2.0, JWT, SAML, SSO, SSL/TLS, IAM, RBAC, OWASP, API Security, Secure SDLC, and DevSecOps**.
+Proven expertise in **solution architecture, microservices and distributed-system design, API architecture, event-driven architecture, scalability, high availability, resilience, performance optimization, observability, and production engineering**. Experienced in **SIEM-based security monitoring, log correlation, alert investigation, detection-rule tuning, and incident response using Splunk/ELK**. Strong security background encompassing **OAuth 2.0, JWT, SAML, SSO, SSL/TLS, IAM, RBAC, OWASP, API Security, Secure SDLC, and DevSecOps**.
 
 Experienced in building and leading cross-functional engineering teams, conducting **architecture and code reviews, mentoring developers, driving technical decisions, resolving complex production issues, and collaborating with product, business, security, QA, DevOps, and cloud teams** to deliver secure, maintainable, highly available enterprise solutions.
 
@@ -46,11 +46,11 @@ Experienced in building and leading cross-functional engineering teams, conducti
 
 **Code Coverage & Quality Gates:** JaCoCo, SonarQube Quality Gates, Code Coverage Analysis, Coverage Threshold Enforcement, Pull Request Quality Checks, Automated Code Analysis, Build Quality Gates
 
-**Security & DevSecOps:** OAuth 2.0, JWT, SSL/TLS, OWASP Top 10, API Security, Identity & Access Management (IAM), Authentication, Authorization, DevSecOps, Secure SDLC, Secrets Management, HashiCorp Vault, Cloud Secrets Management, Vulnerability Management, CI/CD Security Gates, Container Security Scanning
+**Security & DevSecOps:** OAuth 2.0, JWT, SSL/TLS, OWASP Top 10, API Security, Identity & Access Management (IAM), Authentication, Authorization, DevSecOps, Secure SDLC, Secrets Management, HashiCorp Vault, Cloud Secrets Management, Vulnerability Management, CI/CD Security Gates, Container Security Scanning, Security Information and Event Management (SIEM), Security Event Correlation, Detection-Rule Tuning, Security Alert Investigation, Security Incident Response
 
 **Testing & Quality Engineering:** JUnit 5, Mockito, Spring Boot Test, Testcontainers, REST Assured, Postman, PyTest, Jest, React Testing Library, Jasmine, Karma, Cypress, Playwright, Selenium, Unit Testing, Integration Testing, API Testing, Contract Testing, End-to-End (E2E) Testing, Regression Testing, Performance Testing, Test Automation, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
 
-**Monitoring, Logging & Observability:** Prometheus, Grafana, Splunk, Elasticsearch, Logstash, Kibana (ELK Stack), OpenSearch, CloudWatch, Application Monitoring, Distributed Logging, Metrics, Alerting, Production Monitoring, Performance Monitoring
+**Monitoring, Logging & Observability:** Prometheus, Grafana, Splunk, Elasticsearch, Logstash, Kibana (ELK Stack), OpenSearch, CloudWatch, Application Monitoring, Distributed Logging, Metrics, Alerting, Production Monitoring, Performance Monitoring, SIEM, Security Log Ingestion, Audit Logging, Security Event Correlation
 
 **Messaging, Streaming & Data Processing:** Apache Kafka, RabbitMQ, Apache Spark, Apache Flink, Apache Camel, Event-Driven Architecture, Asynchronous Messaging, Stream Processing, Kafka Producers & Consumers, Kafka Consumer Groups, Partitioning, Schema Evolution
 
@@ -201,6 +201,10 @@ Developed and supported distributed services within Verizon's digital ecosystem 
 
 ### Engagement Focus
 
+**AI & GenAI:** Python-based document processing, LLM/RAG knowledge retrieval, semantic search, and secure AI API integration.
+
+**SIEM & security operations:** Authentication, API and audit-log correlation, Splunk/ELK alert investigation, correlation-rule tuning, and incident triage.
+
 **Billing:** OCH healthcare billing, invoicing, payment integration, and secure business-service workflows.
 
 **Development & operations:** Java/Spring Boot, frontend and API engineering, Jenkins/GitLab CI/CD, automated testing, secure identity services, and production troubleshooting.
@@ -209,7 +213,7 @@ Developed and supported distributed services within Verizon's digital ecosystem 
 
 ### Project Description
 
-Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access to government/private services and electronic document signing.
+Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access and electronic document signing. Responsibilities included Python-based AI document and knowledge workflows, secure API integration and SIEM-based security monitoring.
 
 ### Roles & Responsibilities
 
@@ -221,6 +225,12 @@ Led technical design and delivery across OCH healthcare services and UAE PASS di
 
 ● Digital identity: Implemented secure authentication, authorization, auditing and service-integration workflows supporting UAE PASS identity verification, digital access and document-signing capabilities.
 
+● AI document processing: Developed Python-based AI capabilities for healthcare and enterprise document processing, summarization and contextual knowledge retrieval, integrating model-backed services with existing application APIs.
+
+● RAG & semantic search: Implemented LLM/RAG workflows using document parsing, chunking, embeddings, vector indexing and semantic retrieval to ground responses in authorized healthcare and enterprise knowledge sources.
+
+● AI integration & controls: Integrated LLM APIs with backend services and applied prompt templates, response validation, access controls and sensitive-data handling to support secure AI-assisted workflows.
+
 ● Event & data processing: Designed Kafka workflows for healthcare events, identity notifications and audit records; supported Spark/Flink batch and streaming workloads with consumer-group, retry, offset and dead-letter handling.
 
 ● Frontend delivery: Developed Angular and React applications integrated with backend services, using reusable components, responsive layouts, validation and authenticated user flows.
@@ -231,6 +241,8 @@ Led technical design and delivery across OCH healthcare services and UAE PASS di
 
 ● Security & quality: Applied OAuth 2.0, JWT, TLS, IAM, encryption, API rate limiting and OWASP controls; implemented JUnit/Mockito, REST Assured and JMeter coverage for functional and performance validation.
 
+● SIEM & security operations: Integrated application, authentication, API and audit logs into SIEM monitoring; investigated correlated security alerts and suspicious access patterns using Splunk/ELK, supported correlation-rule tuning and coordinated incident triage with security and operations teams.
+
 ● Production readiness: Configured Prometheus, Grafana, ELK, Azure Monitor and CloudWatch monitoring; tuned APIs and databases and supported caching, autoscaling, health checks, incident investigation and root cause analysis.
 
 ● Team leadership: Mentored backend and frontend developers, established coding and review standards, and coordinated QA, DevOps, security, product and business stakeholders through implementation, testing and deployment.
@@ -239,6 +251,8 @@ Led technical design and delivery across OCH healthcare services and UAE PASS di
 
 **Languages:** Java, Go, Python, JavaScript, TypeScript, SQL  
 **Backend:** Spring Boot, Hibernate/JPA, REST, GraphQL, gRPC, Microservices  
+**AI/GenAI:** Python, LLM API Integration, Document Processing, RAG, Embeddings, Vector Databases, Semantic Search, Prompt Engineering
+**SIEM/Security Operations:** SIEM, Splunk, ELK, Security Log Ingestion, Event Correlation, Alert Investigation, Incident Triage
 **Streaming:** Kafka, Spark, Flink  
 **Frontend:** Angular, React.js  
 **Cloud:** AWS, Azure, GCP  
@@ -437,54 +451,6 @@ Developed insurance workflows for EZYInsure and location-based policy capabiliti
 ● Environment & troubleshooting: Configured test/UAT environments and supported Windows/Linux deployment configuration; resolved UI, business, persistence and integration issues and improved queries and code paths.
 
 ● Team delivery: Worked with senior developers, business analysts and QA to turn insurance requirements into application functionality; participated in peer reviews, documentation and knowledge transfer.
-
-### Environment & Deployment
-
-● Configured and supported **Testing and UAT environments**.
-
-● Supported application deployment and troubleshooting across Windows and Linux environments.
-
-● Assisted with release validation and environment-specific configuration.
-
-### Code Quality & Engineering Practices
-
-● Followed Java/J2EE coding standards and object-oriented development practices.
-
-● Participated in peer reviews, debugging, defect resolution, and application optimization.
-
-● Maintained structured and reusable code across MVC application layers.
-
-### Testing & Quality Engineering
-
-● Developed and executed unit tests using **JUnit**.
-
-● Performed functional, integration, and regression testing.
-
-● Supported UAT defect investigation, remediation, and release validation.
-
-### Security & Reliability
-
-● Implemented input validation, controlled data access, exception handling, and secure integration practices.
-
-● Supported secure interaction with external insurance, payment, messaging, and mapping systems.
-
-● Assisted with troubleshooting integration failures and transaction-processing issues.
-
-### Performance & Production Support
-
-● Diagnosed and resolved application defects across UI, business, persistence, and integration layers.
-
-● Improved application performance through query optimization, code improvements, and efficient integration processing.
-
-● Supported testing and UAT teams during defect triage and release cycles.
-
-### Architecture & Team Collaboration
-
-● Worked with senior developers, business analysts, and QA teams to understand insurance requirements and convert them into application functionality.
-
-● Participated in requirements analysis, development, testing, integration, and release activities.
-
-● Maintained technical documentation and supported knowledge transfer within the development team.
 
 ### Environment
 

@@ -49,17 +49,21 @@
     "role": "Technical Lead",
     "tenure": "May 2021 – Aug 2023",
     "project": "OCH & UAE PASS",
-    "overview": "Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access to government/private services and electronic document signing.",
+    "overview": "Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access and electronic document signing. Responsibilities included Python-based AI document and knowledge workflows, secure API integration and SIEM-based security monitoring.",
     "responsibilities": [
       "Technical design: Defined microservice boundaries, API contracts and integration patterns for healthcare and identity workflows; led architecture reviews and translated business requirements into technical designs.",
       "Backend delivery: Developed Java/Spring Boot, Go and Python services with Hibernate/JPA and REST, GraphQL and gRPC APIs; implemented validation, transaction management, exception handling, versioning and concurrency controls.",
       "Healthcare workflows: Developed and integrated OCH services for patient records, appointments, billing, invoicing, payment integration and operational reporting with secure access to healthcare information.",
       "Digital identity: Implemented secure authentication, authorization, auditing and service-integration workflows supporting UAE PASS identity verification, digital access and document-signing capabilities.",
+      "AI document processing: Developed Python-based AI capabilities for healthcare and enterprise document processing, summarization and contextual knowledge retrieval, integrating model-backed services with existing application APIs.",
+      "RAG & semantic search: Implemented LLM/RAG workflows using document parsing, chunking, embeddings, vector indexing and semantic retrieval to ground responses in authorized healthcare and enterprise knowledge sources.",
+      "AI integration & controls: Integrated LLM APIs with backend services and applied prompt templates, response validation, access controls and sensitive-data handling to support secure AI-assisted workflows.",
       "Event & data processing: Designed Kafka workflows for healthcare events, identity notifications and audit records; supported Spark/Flink batch and streaming workloads with consumer-group, retry, offset and dead-letter handling.",
       "Frontend delivery: Developed Angular and React applications integrated with backend services, using reusable components, responsive layouts, validation and authenticated user flows.",
       "Cloud engineering: Integrated AWS Lambda, API Gateway, S3, RDS and DynamoDB services and supported AWS, Azure and GCP environments; containerized workloads with Docker and deployed through Kubernetes/EKS and Helm.",
       "DevSecOps & automation: Built and supported Jenkins/GitLab CI/CD pipelines and Terraform automation; incorporated SonarQube, JaCoCo, PMD, Checkstyle, Fortify and dependency checks into release validation.",
       "Security & quality: Applied OAuth 2.0, JWT, TLS, IAM, encryption, API rate limiting and OWASP controls; implemented JUnit/Mockito, REST Assured and JMeter coverage for functional and performance validation.",
+      "SIEM & security operations: Integrated application, authentication, API and audit logs into SIEM monitoring; investigated correlated security alerts and suspicious access patterns using Splunk/ELK, supported correlation-rule tuning and coordinated incident triage with security and operations teams.",
       "Production readiness: Configured Prometheus, Grafana, ELK, Azure Monitor and CloudWatch monitoring; tuned APIs and databases and supported caching, autoscaling, health checks, incident investigation and root cause analysis.",
       "Team leadership: Mentored backend and frontend developers, established coding and review standards, and coordinated QA, DevOps, security, product and business stakeholders through implementation, testing and deployment."
     ]
