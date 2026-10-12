@@ -5,10 +5,13 @@
     "role": "Senior Tech Lead",
     "tenure": "Jan 2025 – Jun 2026",
     "project": "HRMS (TriNet)",
-    "overview": "Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing. Supported SIEM-based security monitoring and incident triage.",
+    "overview": "Led architecture and hands-on engineering for a cloud-native HR management platform covering employee lifecycle, payroll, benefits, onboarding, compliance, workforce analytics and employee self-service. Connected domain services, billing integrations and AI-assisted knowledge workflows through secure APIs and event-driven processing. Supported SIEM-based security monitoring and incident triage. Delivered across Java/Spring Boot and C#/ASP.NET Core, covering migration, application modernization and development from scratch.",
     "responsibilities": [
       "Architecture & ownership: Defined domain-oriented service boundaries, database ownership, API contracts and deployment patterns for independently deployable HR microservices; reviewed trade-offs in scalability, consistency, security and operational complexity.",
-      "Backend engineering: Designed and developed Java 21/Spring Boot, Go and Python/FastAPI services using Hibernate/JPA, REST, GraphQL and gRPC; implemented validation, versioning, transaction handling and idempotent processing.",
+      "Migration: Migrated legacy HR and payroll application capabilities into Java/Spring Boot and C#/ASP.NET Core services, preserving business rules, API contracts and integration behavior during phased releases.",
+      "Modernization: Refactored HR service layers and integrations into modular Java and .NET components, improving maintainability, security, observability and readiness for containerized cloud delivery.",
+      "Development from scratch: Built new Java and C#/ASP.NET Core APIs and HR workflow components from requirements through service design, implementation, testing and production deployment.",
+      "Backend engineering: Designed and developed Java 21/Spring Boot and C#/ASP.NET Core services alongside Go and Python/FastAPI services; implemented relational data access, REST, GraphQL and gRPC integrations, validation, versioning, transaction handling and idempotent processing.",
       "Event-driven workflows: Designed Kafka topics, partitioning, consumer groups, schema evolution, retry topics and dead-letter queues for payroll, benefits, onboarding and compliance events; applied replay and duplicate-processing controls.",
       "Data processing: Built Spark/Flink batch and streaming pipelines for payroll transactions, employee activity, workforce analytics and compliance reporting, with checkpointing and recovery handling.",
       "AI & knowledge retrieval: Developed Python/FastAPI RAG services for policy search, document summarization and contextual employee support; implemented document parsing, chunking, embeddings, vector indexing and semantic retrieval.",
@@ -22,7 +25,12 @@
       "SIEM & security operations: Integrated HR, payroll, authentication and API audit logs into SIEM monitoring; investigated access anomalies and security alerts and coordinated incident triage with security and operations teams.",
       "Technical leadership: Led architecture and code reviews, mentored backend and frontend engineers, and coordinated product, QA, DevOps, cloud, security and data teams through design, delivery and production-readiness reviews."
     ],
-    "siem_focus": "HR and payroll audit-log ingestion, access-event correlation, security alert triage and sensitive-data monitoring across cloud-native services."
+    "siem_focus": "HR and payroll audit-log ingestion, access-event correlation, security alert triage and sensitive-data monitoring across cloud-native services.",
+    "delivery_focus": [
+      "Migration: Migrated legacy HR and payroll application capabilities into Java/Spring Boot and C#/ASP.NET Core services, preserving business rules, API contracts and integration behavior during phased releases.",
+      "Modernization: Refactored HR service layers and integrations into modular Java and .NET components, improving maintainability, security, observability and readiness for containerized cloud delivery.",
+      "Development from scratch: Built new Java and C#/ASP.NET Core APIs and HR workflow components from requirements through service design, implementation, testing and production deployment."
+    ]
   },
   {
     "company": "Publicis Sapient",
@@ -30,9 +38,12 @@
     "role": "Senior Associate Technology L2",
     "tenure": "Aug 2023 – Apr 2024",
     "project": "Verizon",
-    "overview": "Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions. Supported SIEM-based security monitoring and incident triage.",
+    "overview": "Developed and supported distributed services within Verizon's digital ecosystem for customer accounts, telecom products, device purchases, billing and customer support. Combined application engineering, cloud operations, security monitoring and AI-assisted troubleshooting to support reliable digital transactions. Supported SIEM-based security monitoring and incident triage. Delivered across Java/Spring Boot and C#/ASP.NET Core, covering migration, application modernization and development from scratch.",
     "responsibilities": [
-      "Service engineering: Developed and maintained Java/Spring Boot, Go, Python and Node.js microservices for customer and telecom workflows; supported REST, GraphQL and gRPC integrations across enterprise services.",
+      "Service engineering: Developed and maintained Java/Spring Boot and C#/ASP.NET Core microservices alongside Go, Python and Node.js services for customer and telecom workflows; supported REST, GraphQL and gRPC integrations across enterprise services.",
+      "Migration: Supported phased migration of legacy customer-account and telecom services into Java/Spring Boot and C#/ASP.NET Core APIs, validating compatibility with existing billing and downstream integrations.",
+      "Modernization: Reworked Java and .NET service components, API integrations and error handling for maintainable customer workflows and reliable production operations.",
+      "Development from scratch: Developed new Java and C#/ASP.NET Core service components and REST endpoints for customer and telecom workflows, including validation, integration testing and release support.",
       "Billing & customer workflows: Supported customer-account billing, subscription, invoicing and payment integrations; investigated API failures and downstream dependency issues affecting digital transactions.",
       "Kafka reliability: Troubleshot consumer lag, failed messages, duplicate processing and offset-management issues; supported topics, partitions, consumer groups, retries and dead-letter queues for asynchronous processing.",
       "Operational AI: Developed Python-based LLM/RAG capabilities for operational-document retrieval, historical incident search, log summarization and troubleshooting assistance, using LangChain, embeddings and OpenAI/Azure OpenAI with access controls.",
@@ -44,7 +55,12 @@
       "Testing & resilience: Maintained unit, API, integration and regression tests; applied timeouts, retries, circuit breakers, fallbacks and asynchronous processing while diagnosing concurrency, memory and database-connection issues.",
       "Engineering collaboration: Reviewed code and worked with development, security, DevOps, operations and product teams on release readiness, technical-debt remediation, performance improvements and production stabilization."
     ],
-    "siem_focus": "Security alert investigation, suspicious API activity, correlation-rule tuning and incident response using Splunk/ELK."
+    "siem_focus": "Security alert investigation, suspicious API activity, correlation-rule tuning and incident response using Splunk/ELK.",
+    "delivery_focus": [
+      "Migration: Supported phased migration of legacy customer-account and telecom services into Java/Spring Boot and C#/ASP.NET Core APIs, validating compatibility with existing billing and downstream integrations.",
+      "Modernization: Reworked Java and .NET service components, API integrations and error handling for maintainable customer workflows and reliable production operations.",
+      "Development from scratch: Developed new Java and C#/ASP.NET Core service components and REST endpoints for customer and telecom workflows, including validation, integration testing and release support."
+    ]
   },
   {
     "company": "Cognizant",
@@ -52,10 +68,13 @@
     "role": "Technical Lead",
     "tenure": "May 2021 – Aug 2023",
     "project": "OCH & UAE PASS",
-    "overview": "Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access and electronic document signing. Responsibilities included Python-based AI document and knowledge workflows, secure API integration and SIEM-based security monitoring.",
+    "overview": "Led technical design and delivery across OCH healthcare services and UAE PASS digital identity. OCH covered patient information, medical records, appointments, billing and reporting; UAE PASS supported authentication, identity verification, digital access and electronic document signing. Responsibilities included Python-based AI document and knowledge workflows, secure API integration and SIEM-based security monitoring. Delivered across Java/Spring Boot and C#/ASP.NET Core, covering migration, application modernization and development from scratch.",
     "responsibilities": [
       "Technical design: Defined microservice boundaries, API contracts and integration patterns for healthcare and identity workflows; led architecture reviews and translated business requirements into technical designs.",
-      "Backend delivery: Developed Java/Spring Boot, Go and Python services with Hibernate/JPA and REST, GraphQL and gRPC APIs; implemented validation, transaction management, exception handling, versioning and concurrency controls.",
+      "Migration: Migrated legacy healthcare and identity integration capabilities into Java/Spring Boot and C#/ASP.NET Core services, validating authentication, data access and API compatibility.",
+      "Modernization: Modernized Java and .NET service layers for healthcare and digital identity, applying reusable integration patterns, secure access controls and consistent audit logging.",
+      "Development from scratch: Designed and built Java and C#/ASP.NET Core APIs and integration components for healthcare and identity workflows, from requirements and architecture through testing and deployment.",
+      "Backend delivery: Developed Java/Spring Boot and C#/ASP.NET Core services alongside Go and Python components, using relational data access and REST, GraphQL and gRPC APIs; implemented validation, transaction management, exception handling, versioning and concurrency controls.",
       "Healthcare workflows: Developed and integrated OCH services for patient records, appointments, billing, invoicing, payment integration and operational reporting with secure access to healthcare information.",
       "Digital identity: Implemented secure authentication, authorization, auditing and service-integration workflows supporting UAE PASS identity verification, digital access and document-signing capabilities.",
       "AI document processing: Developed Python-based AI capabilities for healthcare and enterprise document processing, summarization and contextual knowledge retrieval, integrating model-backed services with existing application APIs.",
@@ -70,7 +89,12 @@
       "Production readiness: Configured Prometheus, Grafana, ELK, Azure Monitor and CloudWatch monitoring; tuned APIs and databases and supported caching, autoscaling, health checks, incident investigation and root cause analysis.",
       "Team leadership: Mentored backend and frontend developers, established coding and review standards, and coordinated QA, DevOps, security, product and business stakeholders through implementation, testing and deployment."
     ],
-    "siem_focus": "Authentication, API and audit-log correlation, Splunk/ELK alert investigation, correlation-rule tuning and security incident triage."
+    "siem_focus": "Authentication, API and audit-log correlation, Splunk/ELK alert investigation, correlation-rule tuning and security incident triage.",
+    "delivery_focus": [
+      "Migration: Migrated legacy healthcare and identity integration capabilities into Java/Spring Boot and C#/ASP.NET Core services, validating authentication, data access and API compatibility.",
+      "Modernization: Modernized Java and .NET service layers for healthcare and digital identity, applying reusable integration patterns, secure access controls and consistent audit logging.",
+      "Development from scratch: Designed and built Java and C#/ASP.NET Core APIs and integration components for healthcare and identity workflows, from requirements and architecture through testing and deployment."
+    ]
   },
   {
     "company": "Tech Mahindra",
@@ -78,10 +102,13 @@
     "role": "Senior Product Engineer / Java Tech Lead",
     "tenure": "Sep 2019 – May 2021",
     "project": "IMC Mayo & IMC Patient Portal",
-    "overview": "Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations. Supported SIEM-based security monitoring and incident triage.",
+    "overview": "Served as Onsite Coordinator and Java Tech Lead for IMC web and mobile healthcare services. Delivered patient registration, appointments, medical reports, vital-sign tracking, physician information, healthcare content and notifications through secure patient-service integrations. Supported SIEM-based security monitoring and incident triage. Delivered across Java/Spring Boot and C#/ASP.NET Core, covering migration, application modernization and development from scratch.",
     "responsibilities": [
       "Delivery leadership: Coordinated onsite and offshore engineers through technical design, implementation, code reviews, testing and deployment; maintained technical documentation and operational troubleshooting guidance.",
-      "Backend services: Designed Spring Boot/Spring MVC services for patient registration, appointments, reports and healthcare content; consolidated reusable service components to reduce duplicated business logic.",
+      "Migration: Supported migration of legacy patient-service functionality into Java/Spring Boot and C#/ASP.NET Core APIs, validating healthcare integrations and existing patient workflows.",
+      "Modernization: Refactored patient-service Java and .NET components into reusable service layers, standardizing validation, security, exception handling and external API integration.",
+      "Development from scratch: Built new Java and C#/ASP.NET Core endpoints and service components for patient registration, appointments, reports and notifications, with integration tests and deployment support.",
+      "Backend services: Designed Java/Spring Boot and C#/ASP.NET Core services for patient registration, appointments, reports and healthcare content; consolidated reusable service components and shared business logic.",
       "Healthcare integration: Developed REST integrations with external healthcare, SMS, notification and patient-service APIs, using standardized validation, exception handling and error responses.",
       "Billing workflows: Integrated patient-service billing, invoicing and payment APIs with healthcare workflows, applying secure access and consistent transaction/error handling.",
       "Batch processing: Implemented Spring Batch and scheduled jobs for notifications and operational healthcare processing; developed Java/Python mock services to simulate external dependencies during integration testing.",
@@ -92,7 +119,12 @@
       "SIEM & security operations: Supported patient-portal authentication, API and audit-log monitoring through SIEM; investigated suspicious access and security alerts and coordinated healthcare incident triage with security and support teams.",
       "Production support: Investigated ELK/CloudWatch logs, API failures and database issues; optimized service layers and queries, performed root cause analysis and shared technical walkthroughs with development and support teams."
     ],
-    "siem_focus": "Patient-portal access logs, authentication/API events, security alert triage and incident investigation for healthcare services."
+    "siem_focus": "Patient-portal access logs, authentication/API events, security alert triage and incident investigation for healthcare services.",
+    "delivery_focus": [
+      "Migration: Supported migration of legacy patient-service functionality into Java/Spring Boot and C#/ASP.NET Core APIs, validating healthcare integrations and existing patient workflows.",
+      "Modernization: Refactored patient-service Java and .NET components into reusable service layers, standardizing validation, security, exception handling and external API integration.",
+      "Development from scratch: Built new Java and C#/ASP.NET Core endpoints and service components for patient registration, appointments, reports and notifications, with integration tests and deployment support."
+    ]
   },
   {
     "company": "EPSoft Technologies",
@@ -100,9 +132,12 @@
     "role": "Senior Software Engineer",
     "tenure": "Aug 2018 – Sep 2019",
     "project": "ezFlow (Aiotal)",
-    "overview": "Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization. Supported SIEM-based security monitoring and incident triage.",
+    "overview": "Developed ezFlow, an enterprise data-management platform for ingesting, connecting, transforming, streaming and securing information across enterprise, big-data, web and streaming sources. Built backend processing and user interfaces for configurable data workflows and visualization. Supported SIEM-based security monitoring and incident triage. Delivered across Java/Spring Boot and C#/ASP.NET Core, covering migration, application modernization and development from scratch.",
     "responsibilities": [
-      "Platform engineering: Designed Java/Spring Boot, Spring MVC, JPA and REST service components for data ingestion, transformation and persistence; participated from requirements analysis through deployment.",
+      "Platform engineering: Designed Java/Spring Boot and C#/ASP.NET Core service components for data ingestion, transformation, relational data access and REST integration; participated from requirements analysis through deployment.",
+      "Migration: Migrated legacy data-processing and integration capabilities into Java/Spring Boot and C#/ASP.NET Core services, validating source mappings, transformed data and downstream API compatibility.",
+      "Modernization: Modernized Java and .NET ingestion and transformation components with reusable service boundaries, asynchronous integration and consistent error handling.",
+      "Development from scratch: Developed new Java and C#/ASP.NET Core service components and REST APIs for configurable data-ingestion and transformation workflows, from technical design through testing and deployment.",
       "Pipeline processing: Implemented Spring Batch jobs for scheduled and high-volume processing and worked with Apache Beam for distributed data-pipeline use cases.",
       "Event-driven integration: Developed Kafka-based asynchronous workflows connecting ingestion, transformation and downstream processing, with structured error handling and recovery mechanisms.",
       "Data-store integration: Integrated MongoDB and relational sources; developed persistence and validation logic and tuned queries and data-processing paths.",
@@ -114,7 +149,12 @@
       "SIEM & security operations: Supported ingestion of data-platform service and audit logs into SIEM; investigated suspicious access, correlated application events and helped triage security incidents across data-processing workflows.",
       "Team coordination: Guided offshore developers, reviewed code and tracked delivery with onsite technical leads and QA teams; supported architecture discussions and technical problem-solving."
     ],
-    "siem_focus": "Data-platform audit logs, user-activity correlation, service alert triage and suspicious-access investigation."
+    "siem_focus": "Data-platform audit logs, user-activity correlation, service alert triage and suspicious-access investigation.",
+    "delivery_focus": [
+      "Migration: Migrated legacy data-processing and integration capabilities into Java/Spring Boot and C#/ASP.NET Core services, validating source mappings, transformed data and downstream API compatibility.",
+      "Modernization: Modernized Java and .NET ingestion and transformation components with reusable service boundaries, asynchronous integration and consistent error handling.",
+      "Development from scratch: Developed new Java and C#/ASP.NET Core service components and REST APIs for configurable data-ingestion and transformation workflows, from technical design through testing and deployment."
+    ]
   },
   {
     "company": "HCL Technologies",
@@ -122,12 +162,13 @@
     "role": "Senior Software Engineer",
     "tenure": "Nov 2015 – Jul 2018",
     "project": "UTi – eMpower | Cisco – Polaris Web | IBM – DRM",
-    "overview": "Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services. Supported SIEM-based security monitoring and incident triage. Responsibilities also covered billing and payment-service integrations.",
+    "overview": "Delivered enterprise Java and web applications across freight forwarding, network-device management and disaster recovery. Projects included UTi eMpower consolidation planning, Cisco Polaris Web switching interfaces and IBM DRM recovery/business-continuity services. Supported SIEM-based security monitoring and incident triage. Responsibilities also covered billing and payment-service integrations. Worked across Java and C#/ASP.NET application development and enterprise integration.",
     "responsibilities": [
       "Freight workflows: Developed UTi eMpower consolidation-planning functionality for grouping orders into shipments, HB allocation/deallocation, order tracking and waybill search.",
+      "Java & .NET delivery: Developed Java/Spring and C#/ASP.NET application components and REST/XML integrations for enterprise workflows, including business validation, relational data access, testing and release support.",
       "Device-management interfaces: Built Cisco Polaris Web setup wizards and responsive device-management screens supporting telemetry information and troubleshooting across desktop, tablet and mobile devices.",
       "Recovery services: Contributed to IBM DRM disaster-recovery services, environment readiness, recovery validation and business-continuity activities for hybrid enterprise environments.",
-      "Enterprise Java: Developed reusable business, service and persistence layers using Java/J2EE, Spring, Spring Boot, JPA and Struts; applied object-oriented design, transaction management and exception handling.",
+      "Enterprise Java & .NET: Developed reusable business, service and persistence layers using Java/J2EE, Spring and C#/ASP.NET, alongside JPA and Struts components; applied object-oriented design, transaction management and exception handling.",
       "Database engineering: Developed Oracle 11g SQL/PLSQL queries, stored procedures and integrations; supported data validation, persistence, query optimization and database troubleshooting.",
       "Web & service integration: Built JSP, AngularJS, JavaScript, jQuery and AJAX interfaces and integrated them with Java REST/XML services and enterprise workflows.",
       "Billing & payments: Supported enterprise invoicing and payment-service integrations using Java/REST/XML; implemented transaction validation, payment-status handling and reconciliation with secure access and consistent error handling.",
@@ -138,7 +179,10 @@
       "Design & collaboration: Analyzed requirements using use cases, sequence diagrams and decision tables; maintained technical documentation and worked with onsite/offshore engineers and QA through delivery."
     ],
     "siem_focus": "Enterprise application/server logs, authentication and audit-event correlation, security alert investigation and incident triage.",
-    "billing_focus": "Enterprise invoicing, payment-service integration, transaction validation, payment-status handling and reconciliation."
+    "billing_focus": "Enterprise invoicing, payment-service integration, transaction validation, payment-status handling and reconciliation.",
+    "delivery_focus": [
+      "Java & .NET delivery: Developed Java/Spring and C#/ASP.NET application components and REST/XML integrations for enterprise workflows, including business validation, relational data access, testing and release support."
+    ]
   },
   {
     "company": "Beyontec 2nABLE Solutions Pvt. Ltd.",
@@ -147,9 +191,10 @@
     "tenure": "May 2014 – Nov 2015",
     "project": "EZYInsure & EzyMap",
     "clients": "Emirates Insurance Company (EIC), ADNIC, Union Insurance",
-    "overview": "Developed insurance workflows for EZYInsure and location-based policy capabilities for EzyMap. Supported English/Arabic transactions, external insurance and payment integrations, policy visualization and Excel-based bulk policy processing.",
+    "overview": "Developed insurance workflows for EZYInsure and location-based policy capabilities for EzyMap. Supported English/Arabic transactions, external insurance and payment integrations, policy visualization and Excel-based bulk policy processing. Worked across Java and C#/ASP.NET application development and enterprise integration.",
     "responsibilities": [
-      "Insurance application development: Implemented Java/J2EE, Struts, Hibernate and JSP components for policy administration, commissions, operational reports and related insurance workflows within an MVC architecture.",
+      "Insurance application development: Implemented Java/J2EE and C#/ASP.NET components for policy administration, commissions, operational reports and insurance workflows, alongside Struts, Hibernate and JSP components within an MVC architecture.",
+      "Java & .NET delivery: Developed Java/J2EE and C#/ASP.NET application components and integration services for insurance workflows, supporting policy processing, payment integration, validation and release testing.",
       "Persistence & transactions: Developed reusable server-side components and Hibernate data-access logic; applied transaction handling, input validation, controlled access and exception management.",
       "External integrations: Integrated payment gateways, automobile-data services, RightFax and messaging platforms; investigated integration failures and transaction-processing defects.",
       "Policy uploads: Used Apache POI for Excel-based policy generation, processing and bulk uploads, connecting uploaded policy data with application workflows.",
@@ -158,6 +203,9 @@
       "Testing & UAT: Wrote JUnit tests and supported functional, integration and regression validation; investigated UAT defects, implemented fixes and assisted release verification.",
       "Environment & troubleshooting: Configured test/UAT environments and supported Windows/Linux deployment configuration; resolved UI, business, persistence and integration issues and improved queries and code paths.",
       "Team delivery: Worked with senior developers, business analysts and QA to turn insurance requirements into application functionality; participated in peer reviews, documentation and knowledge transfer."
+    ],
+    "delivery_focus": [
+      "Java & .NET delivery: Developed Java/J2EE and C#/ASP.NET application components and integration services for insurance workflows, supporting policy processing, payment integration, validation and release testing."
     ]
   }
 ]
